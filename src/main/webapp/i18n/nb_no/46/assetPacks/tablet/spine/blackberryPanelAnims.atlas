@@ -1,0 +1,55 @@
+
+blackberryPanelAnims.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackberryBase1
+  rotate: false
+  xy: 2, 6
+  size: 115, 101
+  orig: 115, 101
+  offset: 0, 0
+  index: -1
+blackberryLeaves1
+  rotate: false
+  xy: 418, 37
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+blackberryLeavesBack1
+  rotate: false
+  xy: 335, 33
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+blackberryMouth1
+  rotate: false
+  xy: 119, 2
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+blackberryMouth2
+  rotate: false
+  xy: 196, 16
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+blackberryMouth3
+  rotate: false
+  xy: 119, 52
+  size: 123, 55
+  orig: 123, 55
+  offset: 0, 0
+  index: -1
+blackberryMouth4
+  rotate: false
+  xy: 244, 48
+  size: 89, 59
+  orig: 89, 59
+  offset: 0, 0
+  index: -1

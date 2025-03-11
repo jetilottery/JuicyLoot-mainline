@@ -1,0 +1,29 @@
+{
+  "urls": [
+    "ch24.webm",
+    "ch24.mp3",
+    "ch24.ogg"
+  ],
+  "sprite": {
+    "DeliciousCelebrate2": [
+      0,
+      4000
+    ],
+    "GlassBreak": [
+      5000,
+      460.63492063492095
+    ],
+    "JL_BonusMusicLoop": [
+      7000,
+      33684.19501133787
+    ],
+    "JuicyCelebrate2": [
+      42000,
+      4000
+    ],
+    "SlurptastiCelebrate2": [
+      47000,
+      4000
+    ]
+  }
+}

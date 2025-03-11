@@ -1,0 +1,119 @@
+﻿{
+  "version": "",
+  "Paytable": {
+    "paybackBody": "Długoterminowy, oczekiwany teoretycznie zwrot tej gry {RTP}.",
+    "RTPvalue": "wynosi {@minRTP}%",
+    "RTPrange": "wynosi od {@minRTP}% do {@maxRTP}%",
+    "paybackTitle": "Oczekiwany zwrot",
+    "subheading": "Opłata za los: {ticketCost}",
+	"overallChances": "Łączna szansa wygrania nagrody w każdej grze to 1 na {odds}.",
+    "prizeLevel": "Poziom nagrody",
+	"prizeDivision": "Dział nagrody",
+    "prizeValue": "Wartość nagrody",
+	"prizeRemaining": "Pozostała przybliżona liczba nagród",
+	"oddsPerPlay": "Szansa na grę"
+  },
+  "title": "OWOCKI",
+  "MenuCommand": {
+    "price": "Cena",
+    "stake": "Stawka",
+    "howToPlay": "Zasady gry",
+    "paytable": "Tabela wygranych",
+    "close": "Zamknij",
+    "audio": {
+      "sound": "Dźwięk",
+      "on": "Wł.",
+      "off": "Wył."
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Błąd: ",
+    "genericErrorText": "Wystąpił wewnętrzny błąd. WYJDŹ i uruchom grę ponownie."
+  },
+  "Game": {
+    "juice_max": "MAKS.",
+    "juice_slash": "/",
+    "highScores_label": "Najwyższe wyniki:",
+    "objectiveMeter_label": ":",
+    "moveMeter_label": ":",
+    "scoreMeter_label": "WYNIK:",
+    "score_label": "WYNIK",
+    "objectives_label": "PRZYGOTOWANE NAPOJE",
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "OPŁATA ZA LOS",
+    "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "SPRÓBUJ "
+    },
+    "footer_win": {
+      "BUY": "WYGRANA",
+      "TRY": "WYGRANA DEMO"
+    },
+    "button_buy": {
+      "BUY": "PŁACĘ",
+      "TRY": "SPRÓBUJ"
+    },
+    "button_try": "SPRÓBUJ",
+    "button_continue": "KONTYNUUJ",
+	"button_retry": "PONÓW",
+    "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+    "button_altAutoPlay": "GRA AUTOMATYCZNA",
+    "button_autoPlay": "ODKRYJ WSZYSTKO",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "GRAJ PONOWNIE",
+      "TRY": "SPRÓBUJ PONOWNIE"
+    },
+    "button_tryAgain": "SPRÓBUJ PONOWNIE",
+    "button_ok": "OK",
+    "button_exit": "WYJDŹ",
+    "error_button_exit": "WYJDŹ",
+    "error_title": "BŁĄD",
+    "message_nonWin": "Powodzenia następnym razem",
+    "message_win": {
+      "BUY": "GRATULACJE!",
+      "TRY": "DZIĘKUJEMY ZA GRĘ!"
+    },
+    "message_win1": {
+      "BUY": "TWOJA WYGRANA TO:",
+      "TRY": "Można było wygrać:"
+    },
+    "message_score_low": "SOCZYSTY",
+    "message_score_medium": "PYSZNY!",
+    "message_score_high": "FANTA-STYCZNY!",
+    "message_out_of_swaps": "BRAK DOSTĘPNYCH RUCHÓW!",
+    "game1Tagline": "Dopasuj 3 nagrody, aby wygrać!",
+    "howToPlay": "",
+    "tutorialTitle0": "ZASADY GRY:",
+    "tutorialTitle1": "Gra podstawowa",
+    "tutorialTitle2": "Wzmocnione ruchy",
+    "tutorialTitle3": "Wzmocnione ruchy",
+    "tutorialTitle4": "Wzmocnione ruchy",
+    "tutorialTitle5": "Wzmocnione ruchy",
+    "tutorialTitle6": "Zamówienia na soki",
+    "tutorialTitle7": "Wzmocnienia",
+    "tutorialTitle8": "Wzmocnienia",
+    "tutorialTitle9": "Gra bonusowa",
+    "tutorialTitle10": "Gra bonusowa",
+    "page1_0": "Zaczynasz z 25 ruchami",
+    "page1_1": "Przesuwaj owoce, aby zamieniać je miejscami.",
+    "page1_2": "Dopasuj 3–5 takich samych owoców w rzędzie lub kolumnie, aby ZAMIENIĆ JE NA SOK.",
+    "page1_3": "lub",
+    "page2_0": "Dopasuj 4 owoce, aby utworzyć owoc czyszczący KOLUMNĘ LUB WIERSZ",
+    "page3_0": "Utwórz 2 owoce oczyszczenia linii, aby usunąć linie na krzyż.",
+    "page4_0": "Dopasuj 5 owoców, aby stworzyć wiśniową bombę.",
+    "page5_0": "Wiśniowa bomba wybucha po jej przesunięciu i usuwa znajdujące się wokół owoce.",
+    "page6_0": "Realizuj zamówienia na soki, zbierając owoce danego typu. Każde zrealizowane zamówienie na sok przyznaje szklankę gry bonusowej.",
+    "page6_1": "Zdobywanie szklanek soku aktualizuje zamówienia na soki do momentu, w którym osiągną one maksymalną wartość.",
+    "page6_2": "lub",
+    "page6_3": "lub",
+    "page7_0": "Połącz pustą szklankę z co najmniej 2 owocami tego samego typu, aby zdobyć dodatkowy wybór szklanki w grze bonusowej.",
+    "page8_0": "Połącz dzbanek z co najmniej 2 owocami tego samego typu, aby usunąć wszystkie wystąpienia tego owocu z planszy gry i zdobyć kolejny ruch.",
+    "page9_0": "Wybierz szklanki i odkryj 3 takie same nagrody, aby wygrać wyświetloną kwotę.",
+    "page10_0": "Znajdź fioletową nagrodę wygranej natychmiastowej, aby wygrać jej kwotę.",
+    "page10_1": "Liczba szklanek wyświetlonych w grze bonusowej jest określana na podstawie liczby szklanek wygranych w grze podstawowej.",
+    "winUpToLabel": "WYGRAJ DO",
+    "winUpToValue": "{0}"
+  }
+}

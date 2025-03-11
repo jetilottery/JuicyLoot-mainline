@@ -1,0 +1,41 @@
+
+blueberry.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blueberryBase
+  rotate: false
+  xy: 2, 229
+  size: 254, 268
+  orig: 254, 268
+  offset: 0, 0
+  index: -1
+mouth happy
+  rotate: false
+  xy: 2, 121
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+mouth happy2
+  rotate: false
+  xy: 258, 399
+  size: 114, 98
+  orig: 114, 98
+  offset: 0, 0
+  index: -1
+mouth happy3
+  rotate: true
+  xy: 2, 2
+  size: 117, 91
+  orig: 117, 91
+  offset: 0, 0
+  index: -1
+mouth happy4
+  rotate: false
+  xy: 116, 147
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1

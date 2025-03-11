@@ -1,0 +1,48 @@
+
+blueberryPanelAnims.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blueberryBase1
+  rotate: false
+  xy: 147, 124
+  size: 115, 120
+  orig: 115, 120
+  offset: 0, 0
+  index: -1
+blueberryBase4
+  rotate: false
+  xy: 2, 92
+  size: 143, 152
+  orig: 143, 152
+  offset: 0, 0
+  index: -1
+blueberryMouth1
+  rotate: false
+  xy: 2, 2
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+blueberryMouth2
+  rotate: false
+  xy: 147, 95
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+blueberryMouth3
+  rotate: false
+  xy: 2, 57
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+blueberryMouth4
+  rotate: false
+  xy: 264, 175
+  size: 89, 69
+  orig: 89, 69
+  offset: 0, 0
+  index: -1

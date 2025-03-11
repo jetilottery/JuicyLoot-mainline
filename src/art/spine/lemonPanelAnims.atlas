@@ -1,0 +1,41 @@
+
+lemonPanelAnims.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lemonBase1
+  rotate: false
+  xy: 2, 37
+  size: 129, 83
+  orig: 129, 83
+  offset: 0, 0
+  index: -1
+lemonMouth1
+  rotate: false
+  xy: 133, 2
+  size: 89, 43
+  orig: 89, 43
+  offset: 0, 0
+  index: -1
+lemonMouth2
+  rotate: false
+  xy: 224, 18
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+lemonMouth3
+  rotate: false
+  xy: 2, 4
+  size: 116, 31
+  orig: 116, 31
+  offset: 0, 0
+  index: -1
+lemonMouth4
+  rotate: false
+  xy: 133, 47
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1

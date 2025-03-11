@@ -1,0 +1,1 @@
+define({	landscape: { width: 1920, height: 1200 },	portrait: { width: 1200, height: 1920 }});

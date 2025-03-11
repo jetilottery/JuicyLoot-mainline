@@ -1,0 +1,131 @@
+{
+	"version":"",
+	"Paytable": {
+	  "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.",
+	  "RTPvalue": "is {@minRTP}%",
+	  "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+	  "paybackTitle": "Expected Payback",
+	  "subheading": "Ticket Cost: {ticketCost}",
+	  "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+	  "prizeLevel": "Prize Level",
+	  "prizeDivision": "Prize Division",
+	  "prizeValue": "Prize Value",
+	  "prizeRemaining": "Approximate Prizes Remaining",
+	  "oddsPerPlay": "Odds Per Play"
+	},
+	"title": "Juicy Loot",
+	"MenuCommand": {
+		"price": "Price",
+		"stake": "Stake",
+		"howToPlay": "Help",
+		"paytable": "Paytable",
+		"close": "Close",
+		"audio": {
+			"sound": "Sound",
+			"on": "On",
+			"off": "Off"
+		}
+	},
+	"Error": {
+	  "errorCodePrefix": "Error: ",
+	  "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+	},
+	"Game": {
+		"juice_max": "MAX",
+		"juice_slash": "/",
+
+		"highScores_label": "High Scores:",
+
+		"objectiveMeter_label": ":",
+		"moveMeter_label": ":",
+		"scoreMeter_label": "SCORE:",
+
+		"score_label": "SCORE",
+		"objectives_label": "DRINKS MADE",
+
+		"footer_balance": "BALANCE",
+		"footer_ticketCost": "TICKET COST",
+		"ticketSelect_ticketCost": "TICKET COST",
+		"ticketCostPrefix": {
+			"BUY": "",
+			"TRY": "TRY "
+		},
+		"footer_win": {
+			"BUY": "WIN",
+			"TRY": "DEMO WIN"
+		},
+
+		"button_buy": {
+			"BUY": "BUY",
+			"TRY": "TRY"
+		},
+		"button_try": "TRY",
+		"button_continue": "CONTINUE",
+		"button_retry": "RETRY",
+		"button_moveToMoney": "MOVE TO MONEY",
+		"button_altAutoPlay": "AUTO SWAP",
+		"button_autoPlay": "REVEAL ALL",
+		"button_stop": "STOP",
+		"button_playAgain": {
+			"BUY": "PLAY AGAIN",
+			"TRY": "TRY AGAIN"
+		},
+		"button_tryAgain": "TRY AGAIN",
+		"button_ok": "OK",
+		"button_exit": "EXIT",
+
+		"error_button_exit": "EXIT",
+		"error_title": "ERROR",
+
+		"message_nonWin": "Better luck\nnext time",
+		"message_win": {
+			"BUY": "Congratulations",
+			"TRY": "Thanks for playing"
+		},
+		"message_win1": {
+			"BUY": "you have won",
+			"TRY": "you could have won"
+		},
+
+		"message_score_low": "JUICY",
+		"message_score_medium": "DELICIOUS!",
+		"message_score_high": "SLURP-TASTIC!!",
+
+		"message_out_of_swaps": "OUT OF MOVES!",
+
+		"game1Tagline": "Match 3 Prizes to Win!",
+
+		"howToPlay": "",
+		"tutorialTitle0": "HOW TO PLAY:",
+		"tutorialTitle1": "base game",
+		"tutorialTitle2": "power moves",
+		"tutorialTitle3": "power moves",
+		"tutorialTitle4": "power moves",
+		"tutorialTitle5": "power moves",
+		"tutorialTitle6": "juice orders",
+		"tutorialTitle7": "power ups",
+		"tutorialTitle8": "power ups",
+		"tutorialTitle9": "bonus game",
+		"tutorialTitle10": "bonus game",
+		"page1_0": "Start with 25 moves",
+		"page1_1": "Swipe pieces of fruit to swap them.",
+		"page1_2": "Match 3-5 fruits of the same type in a row or column to clear them.",
+		"page1_3": "or",
+	  	"page2_0": "Match 4 fruits to create a line clear fruit. When matched, this fruit clears an entire row or column.",
+	  	"page3_0": "Swap 2 line clear fruits to perform a cross line clear.",
+	  	"page4_0": "Match 5 fruits to create a cherry bomb.",
+	  	"page5_0": "The cherry bomb explodes when moved and clears the fruits around it.",
+		"page6_0": "Complete juice orders by collecting individual fruit types. Each completed juice order earns a bonus game glass.",
+		"page6_1": "As glasses of juice are awarded, juice orders are updated until maxed out.",
+		"page6_2": "or",
+		"page6_3": "or",
+		"page7_0": "Match an empty glass with any 2 or more of the same fruit type for an additional glass pick in the bonus game.",
+		"page8_0": "Match a jug with any 2 or more of the same fruit type to clear all matching fruits from the game board and earn an additional move.",
+		"page9_0": "Select glasses and reveal 3 identical prizes to win the amount displayed.",
+		"page10_0": "Find the purple instant win prize and win that amount.",
+		"page10_1": "The amount of glasses displayed in the bonus game is determined by the number of glasses won in the base game.",
+
+		"winUpToLabel": "WIN UP TO",
+		"winUpToValue": "{0}"
+	}
+}

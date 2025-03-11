@@ -1,0 +1,136 @@
+{
+"skeleton": { "hash": "qe4V1T/BUfxeaiO1CHPimXk7fsk", "spine": "3.7.94", "width": 279, "height": 178.02 },
+"bones": [
+	{ "name": "root", "x": 503.84, "y": -378.92 },
+	{ "name": "bone", "parent": "root", "length": 179.25, "rotation": 90, "x": 0.28, "y": 9.52 },
+	{ "name": "bone2", "parent": "bone", "length": 72.64, "x": 66.1, "y": -15.5 },
+	{ "name": "bone3", "parent": "bone", "length": 79.15, "rotation": 90, "x": 83.78, "y": 75.89 },
+	{ "name": "bone4", "parent": "bone", "length": 96.02, "rotation": -90, "x": 86.77, "y": -73.43 }
+],
+"slots": [
+	{ "name": "bodyEndRightFront", "bone": "bone4", "attachment": "bodyEndRightLemon" },
+	{ "name": "body0", "bone": "bone", "attachment": "body0Lemon" },
+	{ "name": "bodyEndLeftFront", "bone": "bone3", "attachment": "bodyEndLeftLemon" },
+	{ "name": "mouthSad", "bone": "bone2", "attachment": "mouthSadLemon" }
+],
+"skins": {
+	"default": {
+		"body0": {
+			"body0Lemon": { "x": 80.02, "y": -2, "rotation": -90, "width": 220, "height": 178 }
+		},
+		"bodyEndLeftFront": {
+			"bodyEndLeftLemon": { "x": 26.12, "y": -3.24, "rotation": 180, "width": 70, "height": 80 }
+		},
+		"bodyEndRightFront": {
+			"bodyEndRightLemon": { "x": 33.56, "y": 0.25, "width": 70, "height": 80 }
+		},
+		"mouthSad": {
+			"mouthSadLemon": { "x": 4.03, "y": 6.23, "rotation": -90, "width": 197, "height": 57 }
+		}
+	}
+},
+"animations": {
+	"Lemon": {
+		"bones": {
+			"bone": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 0.85 },
+					{ "time": 0.3667, "x": 1, "y": 1 },
+					{ "time": 0.7667, "x": 1, "y": 0.85 },
+					{ "time": 1.1333, "x": 1, "y": 1 },
+					{ "time": 1.5, "x": 1, "y": 0.85 }
+				]
+			},
+			"bone3": {
+				"rotate": [
+					{ "time": 0, "angle": 8.03 },
+					{ "time": 0.3667, "angle": 0 },
+					{ "time": 0.7667, "angle": -12.99 },
+					{ "time": 1.1333, "angle": 0 },
+					{ "time": 1.5, "angle": 8.03 }
+				],
+				"translate": [
+					{ "time": 0, "x": -13.6, "y": -1.92 },
+					{ "time": 0.3667, "x": 0, "y": 0 },
+					{ "time": 0.7667, "x": 3.09, "y": 13.41 },
+					{ "time": 1.1333, "x": 0, "y": 0 },
+					{ "time": 1.5, "x": -13.6, "y": -1.92 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.1, "y": 1.1 },
+					{ "time": 0.3667, "x": 1, "y": 1 },
+					{ "time": 0.7667, "x": 0.8, "y": 0.9 },
+					{ "time": 1.1333, "x": 1, "y": 1 },
+					{ "time": 1.5, "x": 1.1, "y": 1.1 }
+				]
+			},
+			"bone4": {
+				"rotate": [
+					{ "time": 0, "angle": 7.57 },
+					{ "time": 0.3667, "angle": -3.98 },
+					{ "time": 0.7667, "angle": -7.97 },
+					{ "time": 1.1333, "angle": -3.98 },
+					{ "time": 1.5, "angle": 7.57 }
+				],
+				"translate": [
+					{ "time": 0, "x": 1.99, "y": -14.94 },
+					{ "time": 0.3667, "x": -4.62, "y": -5.12 },
+					{ "time": 0.7667, "x": -11.56, "y": -8.67 },
+					{ "time": 1.1333, "x": -4.62, "y": -5.12 },
+					{ "time": 1.5, "x": 1.99, "y": -14.94 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.8, "y": 0.9 },
+					{ "time": 0.3667, "x": 1, "y": 1 },
+					{ "time": 0.7667, "x": 1.1, "y": 1.1 },
+					{ "time": 1.1333, "x": 1, "y": 1 },
+					{ "time": 1.5, "x": 0.8, "y": 0.9 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 6.33 },
+					{ "time": 0.3667, "angle": 0 },
+					{ "time": 0.7667, "angle": -5.18 },
+					{ "time": 1.1333, "angle": 0 },
+					{ "time": 1.5, "angle": 6.33 }
+				],
+				"translate": [
+					{ "time": 0, "x": -19.61, "y": -18.75 },
+					{ "time": 0.3667, "x": -24.32, "y": 6.84 },
+					{ "time": 0.7667, "x": -18.09, "y": 34.12 },
+					{ "time": 1.1333, "x": -24.32, "y": 6.84 },
+					{ "time": 1.5, "x": -19.61, "y": -18.75 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 0.85 },
+					{ "time": 0.3667, "x": 1, "y": 1 },
+					{ "time": 0.7667, "x": 1, "y": 0.85 },
+					{ "time": 1.1333, "x": 1, "y": 1 },
+					{ "time": 1.5, "x": 1, "y": 0.85 }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0,
+				"offsets": [
+					{ "slot": "bodyEndRightFront", "offset": 1 }
+				]
+			},
+			{
+				"time": 0.3667,
+				"offsets": [
+					{ "slot": "bodyEndRightFront", "offset": 2 }
+				]
+			},
+			{
+				"time": 1.1333,
+				"offsets": [
+					{ "slot": "bodyEndRightFront", "offset": 1 }
+				]
+			}
+		]
+	}
+}
+}

@@ -1,0 +1,27 @@
+
+blueberryLose.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blueberryBase
+  rotate: false
+  xy: 2, 74
+  size: 254, 268
+  orig: 254, 268
+  offset: 0, 0
+  index: -1
+mouthSad1Blueberry
+  rotate: false
+  xy: 2, 2
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+mouthSad2Blueberry
+  rotate: false
+  xy: 258, 285
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1

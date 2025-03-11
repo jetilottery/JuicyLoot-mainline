@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "ch22.webm",
+    "ch22.mp3",
+    "ch22.ogg"
+  ],
+  "sprite": {
+    "BaseGameMusic_Edit": [
+      0,
+      39792.74376417234
+    ]
+  }
+}

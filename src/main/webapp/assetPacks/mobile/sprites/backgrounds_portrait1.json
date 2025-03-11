@@ -1,0 +1,93 @@
+{"frames": {
+
+"appleBasket":
+{
+	"frame": {"x":1,"y":1003,"w":422,"h":355},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":422,"h":355},
+	"sourceSize": {"w":422,"h":355}
+},
+"BGOverlayBottom_portrait":
+{
+	"frame": {"x":1,"y":1,"w":1000,"h":487},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":487},
+	"sourceSize": {"w":1000,"h":487}
+},
+"blenderBase_portrait":
+{
+	"frame": {"x":425,"y":1052,"w":216,"h":407},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":407},
+	"sourceSize": {"w":216,"h":407}
+},
+"blenderGlass_portrait":
+{
+	"frame": {"x":425,"y":1270,"w":187,"h":283},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":283},
+	"sourceSize": {"w":187,"h":283}
+},
+"blenderJuice_portrait":
+{
+	"frame": {"x":834,"y":1052,"w":185,"h":246},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":45,"w":185,"h":246},
+	"sourceSize": {"w":185,"h":291}
+},
+"blenderMask_portrait":
+{
+	"frame": {"x":710,"y":1300,"w":187,"h":283},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":283},
+	"sourceSize": {"w":187,"h":283}
+},
+"cups_portrait":
+{
+	"frame": {"x":1,"y":1360,"w":124,"h":302},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":302},
+	"sourceSize": {"w":124,"h":302}
+},
+"highScoresPanel":
+{
+	"frame": {"x":1,"y":490,"w":513,"h":511},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":30,"w":513,"h":511},
+	"sourceSize": {"w":548,"h":562}
+},
+"logoSmall":
+{
+	"frame": {"x":516,"y":831,"w":499,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":11,"w":499,"h":219},
+	"sourceSize": {"w":532,"h":244}
+},
+"orangeBasket":
+{
+	"frame": {"x":516,"y":490,"w":422,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":422,"h":339},
+	"sourceSize": {"w":422,"h":339}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "backgrounds_portrait1.png",
+	"format": "RGBA8888",
+	"size": {"w":1020,"h":1488},
+	"scale": "0.83333",
+	"related_multi_packs": [ "backgrounds_portrait0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:2a00b379b75a8766601e1305e9852c80:0927eefd9bd5a79a3c71e2b2e1dba5e7:c7f862fd21e0c431429df3f3f5793849$"
+}
+}

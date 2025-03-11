@@ -1,0 +1,55 @@
+
+appleLose.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+appleBase1
+  rotate: false
+  xy: 2, 24
+  size: 255, 221
+  orig: 255, 221
+  offset: 0, 0
+  index: -1
+mouthSad0Apple
+  rotate: false
+  xy: 2, 2
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+mouthSad1Apple
+  rotate: false
+  xy: 321, 70
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+mouthSad2Apple
+  rotate: true
+  xy: 411, 145
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+mouthSad3Apple
+  rotate: false
+  xy: 259, 142
+  size: 146, 43
+  orig: 146, 43
+  offset: 0, 0
+  index: -1
+mouthSad4Apple
+  rotate: false
+  xy: 259, 187
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: -1
+stork1Apple
+  rotate: false
+  xy: 259, 54
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1

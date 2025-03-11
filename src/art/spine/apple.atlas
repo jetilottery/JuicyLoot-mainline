@@ -1,0 +1,41 @@
+
+apple.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+appleBase1
+  rotate: false
+  xy: 2, 10
+  size: 255, 221
+  orig: 255, 221
+  offset: 0, 0
+  index: -1
+mouth happy
+  rotate: false
+  xy: 259, 153
+  size: 185, 78
+  orig: 185, 78
+  offset: 0, 0
+  index: -1
+mouth happy 3
+  rotate: false
+  xy: 259, 90
+  size: 183, 61
+  orig: 183, 61
+  offset: 0, 0
+  index: -1
+mouth happy2
+  rotate: false
+  xy: 259, 8
+  size: 121, 80
+  orig: 121, 80
+  offset: 0, 0
+  index: -1
+stork1
+  rotate: false
+  xy: 382, 2
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+pear.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+happy
+  rotate: false
+  xy: 284, 212
+  size: 122, 41
+  orig: 122, 41
+  offset: 0, 0
+  index: -1
+happy2
+  rotate: true
+  xy: 284, 24
+  size: 107, 49
+  orig: 107, 49
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: false
+  xy: 284, 133
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+pear
+  rotate: true
+  xy: 2, 2
+  size: 251, 280
+  orig: 251, 280
+  offset: 0, 0
+  index: -1
+stem
+  rotate: true
+  xy: 408, 209
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1

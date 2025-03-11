@@ -1,0 +1,55 @@
+
+pearLose.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leafPear
+  rotate: false
+  xy: 284, 177
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+nearOohPear
+  rotate: true
+  xy: 319, 117
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+oohPear
+  rotate: false
+  xy: 413, 207
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+pear
+  rotate: true
+  xy: 2, 3
+  size: 251, 280
+  orig: 251, 280
+  offset: 0, 0
+  index: -1
+sadPear
+  rotate: true
+  xy: 284, 51
+  size: 124, 33
+  orig: 124, 33
+  offset: 0, 0
+  index: -1
+stemPear
+  rotate: false
+  xy: 367, 184
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+sulkPear
+  rotate: false
+  xy: 284, 2
+  size: 102, 47
+  orig: 102, 47
+  offset: 0, 0
+  index: -1

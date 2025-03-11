@@ -1,0 +1,37 @@
+{"frames": {
+
+"BGCounterSurface_portrait":
+{
+	"frame": {"x":1,"y":1,"w":1000,"h":1988},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1988},
+	"sourceSize": {"w":1000,"h":1988}
+},
+"BGOverlayTop_portrait":
+{
+	"frame": {"x":1003,"y":1603,"w":1000,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":333},
+	"sourceSize": {"w":1000,"h":420}
+},
+"shadowPortrait":
+{
+	"frame": {"x":1003,"y":1,"w":1000,"h":1600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1600},
+	"sourceSize": {"w":1000,"h":1600}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "backgrounds_portrait0.png",
+	"format": "RGBA8888",
+	"size": {"w":2004,"h":1990},
+	"scale": "0.83333",
+	"related_multi_packs": [ "backgrounds_portrait1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:2a00b379b75a8766601e1305e9852c80:0927eefd9bd5a79a3c71e2b2e1dba5e7:c7f862fd21e0c431429df3f3f5793849$"
+}
+}

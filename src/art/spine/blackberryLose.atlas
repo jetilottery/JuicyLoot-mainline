@@ -1,0 +1,69 @@
+
+blackberryLose.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leavesBlackberry
+  rotate: false
+  xy: 483, 105
+  size: 180, 149
+  orig: 180, 149
+  offset: 0, 0
+  index: -1
+mouth fullOohBlackberry
+  rotate: false
+  xy: 256, 2
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+mouth sadBlackberry
+  rotate: false
+  xy: 844, 190
+  size: 168, 64
+  orig: 168, 64
+  offset: 0, 0
+  index: -1
+mouth semiOohBlackberry
+  rotate: false
+  xy: 665, 88
+  size: 117, 75
+  orig: 117, 75
+  offset: 0, 0
+  index: -1
+row1Blackberry
+  rotate: false
+  xy: 2, 133
+  size: 256, 121
+  orig: 256, 121
+  offset: 0, 0
+  index: -1
+row2Blackberry
+  rotate: false
+  xy: 2, 21
+  size: 252, 110
+  orig: 252, 110
+  offset: 0, 0
+  index: -1
+row3Blackberry
+  rotate: false
+  xy: 260, 163
+  size: 221, 91
+  orig: 221, 91
+  offset: 0, 0
+  index: -1
+row4Blackberry
+  rotate: false
+  xy: 665, 165
+  size: 177, 89
+  orig: 177, 89
+  offset: 0, 0
+  index: -1
+storkBlackberry
+  rotate: false
+  xy: 784, 80
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1

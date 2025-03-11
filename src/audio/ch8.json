@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "ch8.webm",
+    "ch8.mp3",
+    "ch8.ogg"
+  ],
+  "sprite": {
+    "Objective_Completed": [
+      0,
+      2990.204081632653
+    ]
+  }
+}

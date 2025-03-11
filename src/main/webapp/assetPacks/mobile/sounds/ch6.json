@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch6.webm",
+    "ch6.mp3",
+    "ch6.ogg"
+  ],
+  "sprite": {
+    "RevealAmountPop": [
+      0,
+      1064.580498866213
+    ],
+    "ScoreTickLoop": [
+      3000,
+      1162.6077097505672
+    ],
+    "SymbolMatch_3": [
+      6000,
+      2187.5056689342396
+    ]
+  }
+}

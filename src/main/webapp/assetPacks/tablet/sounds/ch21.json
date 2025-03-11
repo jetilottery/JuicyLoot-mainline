@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch21.webm",
+    "ch21.mp3",
+    "ch21.ogg"
+  ],
+  "sprite": {
+    "GlassJug_Pop": [
+      0,
+      1500
+    ],
+    "JugColourKiller": [
+      3000,
+      2000
+    ]
+  }
+}

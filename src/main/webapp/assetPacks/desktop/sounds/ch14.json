@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch14.webm",
+    "ch14.mp3",
+    "ch14.ogg"
+  ],
+  "sprite": {
+    "CherryBomb": [
+      0,
+      1394.0816326530612
+    ],
+    "JugAppears": [
+      3000,
+      1500
+    ]
+  }
+}

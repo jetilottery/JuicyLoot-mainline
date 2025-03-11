@@ -1,0 +1,62 @@
+
+orange.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+orangeBorder
+  rotate: false
+  xy: 2, 245
+  size: 262, 257
+  orig: 262, 257
+  offset: 0, 0
+  index: -1
+orangeDimpleHighlight
+  rotate: false
+  xy: 504, 268
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+orangeDimpleLowlight
+  rotate: false
+  xy: 504, 366
+  size: 157, 136
+  orig: 157, 136
+  offset: 0, 0
+  index: -1
+orangeFill
+  rotate: false
+  xy: 2, 2
+  size: 256, 241
+  orig: 256, 241
+  offset: 0, 0
+  index: -1
+orangeHighlights
+  rotate: false
+  xy: 266, 303
+  size: 236, 199
+  orig: 236, 199
+  offset: 0, 0
+  index: -1
+orangeMouthHappy
+  rotate: false
+  xy: 663, 408
+  size: 190, 94
+  orig: 190, 94
+  offset: 0, 0
+  index: -1
+orangeMouthSad
+  rotate: false
+  xy: 855, 408
+  size: 123, 94
+  orig: 123, 94
+  offset: 0, 0
+  index: -1
+orangeTop
+  rotate: false
+  xy: 266, 256
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1

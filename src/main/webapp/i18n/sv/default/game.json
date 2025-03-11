@@ -1,0 +1,115 @@
+{
+  "version": "",
+  "Paytable": {
+    "paybackBody": "I det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}.",
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "från {@minRTP} % till {@maxRTP} %",
+    "paybackTitle": "Förväntad återbetalning",
+    "subheading": "Lottkostnad: {ticketCost}",
+    "prizeLevel": "Prisnivå",
+    "prizeValue": "Prisvärde"
+  },
+  "title": "Juicy Loot",
+  "MenuCommand": {
+    "price": "Pris",
+    "stake": "Insats",
+    "howToPlay": "Hjälp",
+    "paytable": "Vinsttabell",
+    "close": "Stäng",
+    "audio": {
+      "sound": "Ljud",
+      "on": "På",
+      "off": "Av"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fel: ",
+    "genericErrorText": "Det har inträffat ett internt fel. LÄMNA och starta om spelet."
+  },
+  "Game": {
+    "juice_max": "MAX",
+    "juice_slash": "/",
+    "highScores_label": "Toppoäng:",
+    "objectiveMeter_label": ":",
+    "moveMeter_label": ":",
+    "scoreMeter_label": "POÄNG:",
+    "score_label": "POÄNG",
+    "objectives_label": "GJORDA JUICER",
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "LOTTKOSTNAD",
+    "ticketSelect_ticketCost": "LOTTKOSTNAD",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PROVA "
+    },
+    "footer_win": {
+      "BUY": "VINST",
+      "TRY": "DEMOVINST"
+    },
+    "button_buy": {
+      "BUY": "KÖP",
+      "TRY": "PROVA"
+    },
+    "button_try": "PROVA",
+    "button_continue": "FORTSÄTT",
+	"button_retry": "FÖRSÖK IGEN",
+    "button_moveToMoney": "FLYTTA TILL PENGAR",
+    "button_altAutoPlay": "AUTOBYT",
+    "button_autoPlay": "AVSLÖJA ALLA",
+    "button_stop": "STOPPA",
+    "button_playAgain": {
+      "BUY": "SPELA IGEN",
+      "TRY": "FÖRSÖK IGEN"
+    },
+    "button_tryAgain": "FÖRSÖK IGEN",
+    "button_ok": "OK",
+    "button_exit": "LÄMNA",
+    "error_button_exit": "LÄMNA",
+    "error_title": "FEL",
+    "message_nonWin": "Bättre lycka\nnästa gång",
+    "message_win": {
+      "BUY": "Grattis",
+      "TRY": "Tack för att du spelar"
+    },
+    "message_win1": {
+      "BUY": "du har vunnit",
+      "TRY": "du kunde ha vunnit"
+    },
+    "message_score_low": "SAFTIGT",
+    "message_score_medium": "LÄCKERT",
+    "message_score_high": "SLURPTASTISKT!",
+    "message_out_of_swaps": "SLUT PÅ DRAG!",
+    "game1Tagline": "Matcha 3 priser för att vinna!",
+    "howToPlay": "",
+    "tutorialTitle0": "SÅ HÄR SPELAR DU:",
+    "tutorialTitle1": "grundspelet",
+    "tutorialTitle2": "kraftdrag",
+    "tutorialTitle3": "kraftdrag",
+    "tutorialTitle4": "kraftdrag",
+    "tutorialTitle5": "kraftdrag",
+    "tutorialTitle6": "juicebeställningar",
+    "tutorialTitle7": "kraftboostar",
+    "tutorialTitle8": "kraftboostar",
+    "tutorialTitle9": "bonusspel",
+    "tutorialTitle10": "bonusspel",
+    "page1_0": "Du börjar med 25 drag",
+    "page1_1": "Svep frukter för att byta plats på dem.",
+    "page1_2": "Matcha 3–5 frukter av samma sort i en rad eller kolumn för att rensa bort dem.",
+    "page1_3": "eller",
+    "page2_0": "Matcha 4 frukter för att skapa en superfrukt. När den matchas rensar den här frukten en hel rad eller kolumn.",
+    "page3_0": "Byt plats på 2 superfrukter för att utföra en korslinjerensning.",
+    "page4_0": "Matcha 5 frukter för att skapa en körsbärsbomb.",
+    "page5_0": "Körsbärsbomben exploderar när den flyttas och rensar bort omkringliggande frukter.",
+    "page6_0": "Slutför juicebeställningar genom att samla enskilda fruktsorter. Varje slutförd juicebeställning ger ett glas i bonusspelet.",
+    "page6_1": "I takt med att juiceglasen tilldelas, uppdateras juicebeställningarna tills de är slut.",
+    "page6_2": "eller",
+    "page6_3": "eller",
+    "page7_0": "Matcha ett tomt glas med 2 eller fler av samma fruktsort för ett extra glasval i bonusspelet.",
+    "page8_0": "Matcha en kanna med 2 eller fler av samma fruktsort för att rensa bort alla matchande frukter från spelbrädet och få ett extra drag.",
+    "page9_0": "Välj glas och avslöja 3 identiska priser för att vinna det visade beloppet.",
+    "page10_0": "Hitta det lila direktvinstpriset och vinn det beloppet.",
+    "page10_1": "Antalet glas som visas i bonusspelet avgörs av antalet glas som vunnits i grundspelet.",
+    "winUpToLabel": "VINN UPP TILL",
+    "winUpToValue": "{0}"
+  }
+}

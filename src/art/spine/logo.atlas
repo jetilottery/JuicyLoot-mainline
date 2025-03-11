@@ -1,0 +1,55 @@
+
+logo.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple
+  rotate: false
+  xy: 1679, 239
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+blackberry
+  rotate: false
+  xy: 1417, 247
+  size: 260, 240
+  orig: 260, 240
+  offset: 0, 0
+  index: -1
+blueberry
+  rotate: true
+  xy: 273, 2
+  size: 195, 211
+  orig: 195, 211
+  offset: 0, 0
+  index: -1
+lemon
+  rotate: false
+  xy: 2, 30
+  size: 269, 167
+  orig: 269, 167
+  offset: 0, 0
+  index: -1
+logoText
+  rotate: false
+  xy: 2, 199
+  size: 816, 288
+  orig: 816, 288
+  offset: 0, 0
+  index: -1
+orange
+  rotate: false
+  xy: 1163, 236
+  size: 252, 251
+  orig: 252, 251
+  offset: 0, 0
+  index: -1
+pear
+  rotate: true
+  xy: 820, 217
+  size: 270, 341
+  orig: 270, 341
+  offset: 0, 0
+  index: -1

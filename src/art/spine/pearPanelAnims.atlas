@@ -1,0 +1,76 @@
+
+pearPanelAnims.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pearBase1
+  rotate: false
+  xy: 148, 107
+  size: 110, 132
+  orig: 110, 132
+  offset: 0, 0
+  index: -1
+pearBase2
+  rotate: true
+  xy: 260, 170
+  size: 69, 172
+  orig: 69, 172
+  offset: 0, 0
+  index: -1
+pearBase3
+  rotate: false
+  xy: 2, 82
+  size: 144, 157
+  orig: 144, 157
+  offset: 0, 0
+  index: -1
+pearFace1
+  rotate: false
+  xy: 434, 203
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+pearFace2
+  rotate: false
+  xy: 434, 174
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+pearFace3
+  rotate: false
+  xy: 2, 36
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+pearLeaf1
+  rotate: false
+  xy: 2, 2
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+pearLeaf2
+  rotate: false
+  xy: 303, 138
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+pearLeaf3
+  rotate: false
+  xy: 260, 116
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+pearStem1
+  rotate: false
+  xy: 100, 56
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1

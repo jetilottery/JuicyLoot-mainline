@@ -1,0 +1,62 @@
+
+blackberry2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leavesBlackberry
+  rotate: false
+  xy: 483, 86
+  size: 180, 149
+  orig: 180, 149
+  offset: 0, 0
+  index: -1
+mouthHappy1
+  rotate: false
+  xy: 665, 62
+  size: 147, 66
+  orig: 147, 66
+  offset: 0, 0
+  index: -1
+mouthHappy2
+  rotate: false
+  xy: 665, 130
+  size: 162, 105
+  orig: 162, 105
+  offset: 0, 0
+  index: -1
+row1Blackberry
+  rotate: false
+  xy: 2, 114
+  size: 256, 121
+  orig: 256, 121
+  offset: 0, 0
+  index: -1
+row2Blackberry
+  rotate: false
+  xy: 2, 2
+  size: 252, 110
+  orig: 252, 110
+  offset: 0, 0
+  index: -1
+row3Blackberry
+  rotate: false
+  xy: 260, 144
+  size: 221, 91
+  orig: 221, 91
+  offset: 0, 0
+  index: -1
+row4Blackberry
+  rotate: false
+  xy: 829, 146
+  size: 177, 89
+  orig: 177, 89
+  offset: 0, 0
+  index: -1
+storkBlackberry
+  rotate: true
+  xy: 260, 76
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1

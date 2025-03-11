@@ -1,0 +1,41 @@
+
+orangePanelAnims.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+orangeBase1
+  rotate: false
+  xy: 2, 11
+  size: 118, 114
+  orig: 118, 114
+  offset: 0, 0
+  index: -1
+orangeMouth1
+  rotate: false
+  xy: 122, 2
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+orangeMouth2
+  rotate: false
+  xy: 240, 61
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+orangeMouth3
+  rotate: false
+  xy: 240, 90
+  size: 131, 35
+  orig: 131, 35
+  offset: 0, 0
+  index: -1
+orangeMouth4
+  rotate: false
+  xy: 122, 51
+  size: 116, 74
+  orig: 116, 74
+  offset: 0, 0
+  index: -1

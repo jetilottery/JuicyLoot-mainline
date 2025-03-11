@@ -1,0 +1,201 @@
+{
+"skeleton": { "hash": "vYNPkIilf6dA54GOd7/mBNoRljw", "spine": "3.7.94", "width": 129, "height": 83 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 79.32, "rotation": 90, "x": -0.2, "y": 8.92 },
+	{ "name": "bone2", "parent": "root", "length": 28.47, "rotation": 81.06, "x": 4.86, "y": 17.29 }
+],
+"slots": [
+	{ "name": "lemonBase1", "bone": "bone", "attachment": "lemonBase1" },
+	{ "name": "lemonMouth1", "bone": "bone2", "attachment": "lemonMouth4" }
+],
+"skins": {
+	"default": {
+		"lemonBase1": {
+			"lemonBase1": { "x": 30.37, "y": -0.34, "rotation": -90, "width": 129, "height": 83 }
+		},
+		"lemonMouth1": {
+			"lemonMouth1": { "x": 16.35, "y": 6.44, "rotation": -81.06, "width": 89, "height": 43 },
+			"lemonMouth2": { "x": 16.35, "y": 6.44, "rotation": -81.06, "width": 24, "height": 27 },
+			"lemonMouth3": { "x": 16.35, "y": 6.44, "rotation": -81.06, "width": 116, "height": 31 },
+			"lemonMouth4": { "x": 16.35, "y": 6.44, "rotation": -81.06, "width": 108, "height": 73 }
+		}
+	}
+},
+"animations": {
+	"introLemon": {
+		"slots": {
+			"lemonMouth1": {
+				"attachment": [
+					{ "time": 0, "name": "lemonMouth1" },
+					{ "time": 0.1, "name": "lemonMouth2" },
+					{ "time": 0.2333, "name": "lemonMouth3" },
+					{ "time": 0.3333, "name": "lemonMouth4" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1, "angle": 2.28 },
+					{ "time": 0.2333, "angle": 6.95 },
+					{ "time": 0.3333, "angle": 28.48 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.6, "y": 0.685 },
+					{ "time": 0.2333, "x": 0.8, "y": 1.5 },
+					{ "time": 0.3333, "x": 1.4, "y": 1.4 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0, "y": 15.9 },
+					{ "time": 0.2333, "x": 0, "y": 0 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": 8.27 },
+					{ "time": 0.1, "angle": 5.52 },
+					{ "time": 0.1333, "angle": 0 },
+					{ "time": 0.2333, "angle": 3.19 },
+					{ "time": 0.3, "angle": 10.52 },
+					{ "time": 0.3333, "angle": 1.8 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.43, "y": 0.07 },
+					{ "time": 0.1, "x": 0.01, "y": -3.86 },
+					{ "time": 0.1333, "x": -2.31, "y": -7.59 },
+					{ "time": 0.2333, "x": 0.33, "y": -9.24 },
+					{ "time": 0.3, "x": -6.6, "y": -2.97 },
+					{ "time": 0.3333, "x": -19.76, "y": 13.69 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.0667, "x": 1, "y": 0.737 },
+					{ "time": 0.1, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.2333, "x": 1, "y": 1 },
+					{ "time": 0.3, "x": 1, "y": 0.79 },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"loopLemon": {
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 28.48 },
+					{ "time": 0.3333, "angle": -8.77 },
+					{ "time": 0.6667, "angle": 28.48 },
+					{ "time": 1, "angle": 46.24 },
+					{ "time": 1.3333, "angle": 28.48 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.4, "y": 1.4 },
+					{ "time": 0.3333, "x": 1.5, "y": 1.4 },
+					{ "time": 0.6667, "x": 1.4, "y": 1.4 },
+					{ "time": 1, "x": 1.5, "y": 1.4 },
+					{ "time": 1.3333, "x": 1.4, "y": 1.4 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 1.8 },
+					{ "time": 0.3333, "angle": -45.1 },
+					{ "time": 0.6667, "angle": 1.8 },
+					{ "time": 1, "angle": 24.09 },
+					{ "time": 1.3333, "angle": 1.8 }
+				],
+				"translate": [
+					{ "time": 0, "x": -19.76, "y": 13.69 },
+					{ "time": 0.3333, "x": -7.22, "y": 15.01 },
+					{ "time": 0.6667, "x": -19.76, "y": 13.69 },
+					{ "time": 1, "x": -25.7, "y": 8.41 },
+					{ "time": 1.3333, "x": -19.76, "y": 13.69 }
+				]
+			}
+		}
+	},
+	"outroLemon": {
+		"slots": {
+			"lemonMouth1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "lemonMouth3" },
+					{ "time": 0.2333, "name": "lemonMouth2" },
+					{ "time": 0.3333, "name": "lemonMouth1" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 28.48 },
+					{ "time": 0.1333, "angle": 5 },
+					{ "time": 0.2, "angle": 2.63 },
+					{ "time": 0.2667, "angle": 0.26 },
+					{ "time": 0.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1333, "x": -0.65, "y": -0.11 },
+					{ "time": 0.2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.4, "y": 1.4 },
+					{ "time": 0.0667, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 0.8, "y": 1.4 },
+					{ "time": 0.2, "x": 1.25, "y": 1 },
+					{ "time": 0.2667, "x": 1.7, "y": 0.6 },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 7.5 },
+					{ "time": 0.2667, "x": 0.9, "y": 25.2 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 1.8 },
+					{ "time": 0.0667, "angle": 1.44 },
+					{ "time": 0.2, "angle": 0.72 },
+					{ "time": 0.2333, "angle": 7.12 },
+					{ "time": 0.2667, "angle": 6.7 },
+					{ "time": 0.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -19.76, "y": 13.69 },
+					{ "time": 0.0667, "x": -10.2, "y": -2.25 },
+					{ "time": 0.1333, "x": -0.39, "y": -5.65 },
+					{ "time": 0.2, "x": -3.56, "y": -4.1 },
+					{ "time": 0.2333, "x": 0.47, "y": -4.23 },
+					{ "time": 0.2667, "x": -0.13, "y": -6.34 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.0667, "x": 1, "y": 0.62 },
+					{ "time": 0.1333, "x": 1, "y": 1 },
+					{ "time": 0.2, "x": 1, "y": 0.555 },
+					{ "time": 0.2333, "x": 1, "y": 1 },
+					{ "time": 0.2667, "x": 1, "y": 0.778 },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0.0667, "x": 0, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 4.8 },
+					{ "time": 0.2, "x": 0, "y": -8.8 },
+					{ "time": 0.2333, "x": 0, "y": -0.3 },
+					{ "time": 0.2667, "x": 0, "y": -4.4 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

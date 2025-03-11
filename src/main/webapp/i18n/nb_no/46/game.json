@@ -1,0 +1,115 @@
+{
+  "version": "",
+  "Paytable": {
+    "paybackBody": "For dette spillet er den langsiktige, teoretiske oppgitte gevinstandelen {RTP}.",
+    "RTPvalue": "er {@minRTP}%",
+    "RTPrange": "er fra {@minRTP}% til {@maxRTP}%",
+    "paybackTitle": "Oppgitt gevinstandel",
+    "subheading": "Pris: {ticketCost}",
+    "prizeLevel": "Premienivå",
+    "prizeValue": "Premieverdi"
+  },
+  "title": "Saft Suse",
+  "MenuCommand": {
+    "price": "Pris",
+    "stake": "Innsats",
+    "howToPlay": "Hjelp",
+    "paytable": "Gevinsttabell",
+    "close": "Lukk",
+    "audio": {
+      "sound": "Lyd",
+      "on": "På",
+      "off": "Av"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Feil: ",
+    "genericErrorText": "En intern feil har oppstått. AVSLUTT og start spillet på nytt."
+  },
+  "Game": {
+    "juice_max": "MAKS",
+    "juice_slash": "/",
+    "highScores_label": "HI SCORE:",
+    "objectiveMeter_label": ":",
+    "moveMeter_label": ":",
+    "scoreMeter_label": "POENGSUM:",
+    "score_label": "POENGSUM",
+    "objectives_label": "SAFTGLASS LAGET",
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "PRIS",
+    "ticketSelect_ticketCost": "PRIS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PRØVESPILL "
+    },
+    "footer_win": {
+      "BUY": "GEVINST",
+      "TRY": "PRØVESPILL: GEVINST UTBETALES IKKE"
+    },
+    "button_buy": {
+      "BUY": "KJØP",
+      "TRY": "PRØVESPILL"
+    },
+    "button_try": "PRØVESPILL",
+    "button_continue": "FORTSETT",
+	"button_retry": "GJENTA",
+    "button_moveToMoney": "SPILL MED PENGER",
+    "button_altAutoPlay": "AUTOSWAP",
+    "button_autoPlay": "AVDEKK ALLE",
+    "button_stop": "STOPP",
+    "button_playAgain": {
+      "BUY": "SPILL PÅ NYTT",
+      "TRY": "PRØV IGJEN"
+    },
+    "button_tryAgain": "PRØV IGJEN",
+    "button_ok": "OK",
+    "button_exit": "AVSLUTT",
+    "error_button_exit": "AVSLUTT",
+    "error_title": "FEIL",
+    "message_nonWin": "Ingen premie",
+    "message_win": {
+      "BUY": "Gratulerer",
+      "TRY": "PRØVESPILL"
+    },
+    "message_win1": {
+      "BUY": "du vant",
+      "TRY": "PRØVESPILL: GEVINST UTBETALES IKKE"
+    },
+    "message_score_low": "SAFTIG",
+    "message_score_medium": "DEILIG!",
+    "message_score_high": "SAFTASTISK!",
+    "message_out_of_swaps": "INGEN FLERE TREKK!",
+    "game1Tagline": "Få 3 like beløp for å vinne!",
+    "howToPlay": "",
+    "tutorialTitle0": "HVORDAN SPILLE:",
+    "tutorialTitle1": "basisspill",
+    "tutorialTitle2": "saftige trekk",
+    "tutorialTitle3": "saftige trekk",
+    "tutorialTitle4": "saftige trekk",
+    "tutorialTitle5": "saftige trekk",
+    "tutorialTitle6": "saftbestillinger",
+    "tutorialTitle7": "Spesialblandinger",
+    "tutorialTitle8": "Spesialblandinger",
+    "tutorialTitle9": "gevinstspill",
+    "tutorialTitle10": "gevinstspill",
+    "page1_0": "Start med 25 trekk",
+    "page1_1": "Sveip frukt for å bytte plass på dem.",
+    "page1_2": "Få 3–5 frukter av samme type på rad eller i en kolonne for å skvise dem.",
+    "page1_3": "eller",
+    "page2_0": "Få 4 frukter på rad eller i en kolonne for å skape en linje med tømt frukt. Når de settes sammen, tømmer denne frukten en hel rad eller kolonne.",
+    "page3_0": "Bytt 2 linjer med fjernet frukt for å få en tømming på kryss.",
+    "page4_0": "Få 5 like frukter for å lage en bombe av kirsebær.",
+    "page5_0": "Kirsebærbomben eksploderer når den flyttes og tømmer frukten rundt seg.",
+    "page6_0": "Lever saftbestillinger ved å samle inn individuelle frukttyper. Hver leverte saftbestilling gir et glass i gevinstspillet.",
+    "page6_1": "Mens saftglassene fylles, oppdateres saftbestillingene inntil de maksimeres.",
+    "page6_2": "eller",
+    "page6_3": "eller",
+    "page7_0": "Få et tomt glass med 2 eller flere frukter av samme type på linje for et ekstra valg av glass i gevinstspillet.",
+    "page8_0": "Få en mugge med 2 eller flere frukt av samme type på linje for å tømme alle frukter av samme slag fra spillbrettet og få et ekstra trekk.",
+    "page9_0": "Velg glass og avdekk 3 identiske beløp for å vinne det oppgitte beløpet.",
+    "page10_0": "Finn den lilla gevinsten for å vinne dette beløpet.",
+    "page10_1": "Antallet glass som kan skrapes i gevinstspillet bestemmes av antallet glass som vinnes i basisspillet.",
+    "winUpToLabel": "VINN OPPTIL",
+    "winUpToValue": "{0}"
+  }
+}

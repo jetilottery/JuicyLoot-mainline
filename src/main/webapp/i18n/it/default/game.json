@@ -1,0 +1,115 @@
+{
+  "version": "",
+  "Paytable": {
+    "paybackBody": "Il ritorno teorico a lungo termine previsto per questo gioco {RTP}",
+    "RTPvalue": "è pari a {@minRTP}%",
+    "RTPrange": "è compreso tra {@minRTP}% e {@maxRTP}%",
+    "paybackTitle": "Ritorno previsto",
+    "subheading": "Prezzo Biglietto: {ticketCost}",
+    "prizeLevel": "Livello del Premio",
+    "prizeValue": "Valore del Premio"
+  },
+  "title": "Juicy Loot",
+  "MenuCommand": {
+    "price": "Prezzo",
+    "stake": "Puntata",
+    "howToPlay": "Aiuto",
+    "paytable": "Tabella dei pagamenti",
+    "close": "Chiudi",
+    "audio": {
+      "sound": "Audio",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Errore: ",
+    "genericErrorText": "Si è verificato un errore interno. ESCI e riavvia il gioco."
+  },
+  "Game": {
+    "juice_max": "MAX",
+    "juice_slash": "/",
+    "highScores_label": "Punteggi più alti:",
+    "objectiveMeter_label": ":",
+    "moveMeter_label": ":",
+    "scoreMeter_label": "PUNTEGGIO:",
+    "score_label": "PUNTEGGIO",
+    "objectives_label": "BEVANDE PREPARATE",
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "PREZZO BIGLIETTO",
+    "ticketSelect_ticketCost": "PREZZO BIGLIETTO",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PROVA "
+    },
+    "footer_win": {
+      "BUY": "VINCITA",
+      "TRY": "VINCITA DEMO"
+    },
+    "button_buy": {
+      "BUY": "ACQUISTA",
+      "TRY": "PROVA"
+    },
+    "button_try": "PROVA",
+    "button_continue": "CONTINUA",
+	"button_retry": "RIPROVA",
+    "button_moveToMoney": "GIOCA CON DENARO REALE",
+    "button_altAutoPlay": "SCAMBIO AUTOMATICO",
+    "button_autoPlay": "MOSTRA TUTTI",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "GIOCA ANCORA",
+      "TRY": "RIPROVA"
+    },
+    "button_tryAgain": "RIPROVA",
+    "button_ok": "OK",
+    "button_exit": "ESCI",
+    "error_button_exit": "ESCI",
+    "error_title": "ERRORE",
+    "message_nonWin": "Sarai più fortunato\nla prossima volta",
+    "message_win": {
+      "BUY": "Congratulazioni",
+      "TRY": "Grazie per aver giocato con noi"
+    },
+    "message_win1": {
+      "BUY": "hai vinto",
+      "TRY": "avresti potuto vincere"
+    },
+    "message_score_low": "SUCCOSO",
+    "message_score_medium": "DELIZIOSO!",
+    "message_score_high": "DA ACQUOLINA IN BOCCA!!",
+    "message_out_of_swaps": "MOSSE ESAURITE!",
+    "game1Tagline": "Abbina 3 premi per vincere!",
+    "howToPlay": "",
+    "tutorialTitle0": "COME SI GIOCA:",
+    "tutorialTitle1": "partita principale",
+    "tutorialTitle2": "mosse potenti",
+    "tutorialTitle3": "mosse potenti",
+    "tutorialTitle4": "mosse potenti",
+    "tutorialTitle5": "mosse potenti",
+    "tutorialTitle6": "ordini di succhi",
+    "tutorialTitle7": "ricariche",
+    "tutorialTitle8": "ricariche",
+    "tutorialTitle9": "gioco bonus",
+    "tutorialTitle10": "gioco bonus",
+    "page1_0": "Inizia con 25 mosse",
+    "page1_1": "Fai scorrere i pezzi di frutta per scambiarli.",
+    "page1_2": "Abbina 3-5 frutti dello stesso tipo in una riga o colonna per rimuoverli.",
+    "page1_3": "o",
+    "page2_0": "Abbina 4 frutti per creare un frutto che rimuove una linea. Quando vengono abbinati, questi frutti rimuovono un'intera riga o colonna.",
+    "page3_0": "Scambia 2 frutti che rimuovono una linea per effettuare una rimozione delle linee in trasversale.",
+    "page4_0": "Abbina 5 frutti per creare una ciliegia bomba.",
+    "page5_0": "La ciliegia bomba esplode quando viene spostata e rimuove i frutti che la circondano.",
+    "page6_0": "Completa gli ordini di succhi raccogliendo singoli tipi di frutti. Ogni ordine di un succo completato assegna un bicchiere del gioco bonus.",
+    "page6_1": "A mano a mano che vengono assegnati i bicchieri di succo, gli ordini vengono aggiornati fino al raggiungimento del limite.",
+    "page6_2": "o",
+    "page6_3": "o",
+    "page7_0": "Abbina un bicchiere vuoto con almeno 2 frutti dello stesso tipo per ottenere una selezione dei bicchieri aggiuntiva nel gioco bonus.",
+    "page8_0": "Abbina una caraffa con almeno 2 frutti dello stesso tipo per rimuovere tutti i frutti uguali dal tabellone di gioco e ricevere una mossa aggiuntiva.",
+    "page9_0": "Seleziona i bicchieri e rivela 3 premi uguali per vincere l'importo indicato.",
+    "page10_0": "Trova la vincita immediata viola per vincere tale importo.",
+    "page10_1": "La quantità di bicchieri visualizzata nel gioco bonus è determinata dal numero di bicchieri vinti nella partita principale.",
+    "winUpToLabel": "VINCI FINO A",
+    "winUpToValue": "{0}"
+  }
+}

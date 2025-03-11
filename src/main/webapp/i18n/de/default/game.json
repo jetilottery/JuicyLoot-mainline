@@ -1,0 +1,115 @@
+{
+  "version": "",
+  "Paytable": {
+    "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}.",
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% bis {@maxRTP}%",
+    "paybackTitle": "Erwartete Rückzahlung",
+    "subheading": "Ticketpreis: {ticketCost}",
+    "prizeLevel": "Preisstufe",
+    "prizeValue": "Preis-Wert"
+  },
+  "title": "Juicy Loot",
+  "MenuCommand": {
+    "price": "Preis",
+    "stake": "Einsatz",
+    "howToPlay": "Hilfe",
+    "paytable": "Gewinntabelle",
+    "close": "Schließen",
+    "audio": {
+      "sound": "Sound",
+      "on": "Ein",
+      "off": "Aus"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fehler: ",
+    "genericErrorText": "Es ist ein interner Fehler aufgetreten. Spiel VERLASSEN und neu starten."
+  },
+  "Game": {
+    "juice_max": "MAX",
+    "juice_slash": "/",
+    "highScores_label": "Bestenliste:",
+    "objectiveMeter_label": ":",
+    "moveMeter_label": ":",
+    "scoreMeter_label": "PUNKTE:",
+    "score_label": "PUNKTE",
+    "objectives_label": "GETRÄNKE GEMIXT",
+    "footer_balance": "GUTHABEN",
+    "footer_ticketCost": "TICKETPREIS",
+    "ticketSelect_ticketCost": "TICKETPREIS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PROBIEREN "
+    },
+    "footer_win": {
+      "BUY": "GEWINN",
+      "TRY": "DEMO-GEWINN"
+    },
+    "button_buy": {
+      "BUY": "KAUFEN",
+      "TRY": "PROBIEREN"
+    },
+    "button_try": "PROBIEREN",
+    "button_continue": "FORTFAHREN",
+	"button_retry": "ERNEUT VERSUCHEN",
+    "button_moveToMoney": "ZU GELD VERSCHIEBEN",
+    "button_altAutoPlay": "AUTO-TAUSCH",
+    "button_autoPlay": "ALLE AUFDECKEN",
+    "button_stop": "STOPP",
+    "button_playAgain": {
+      "BUY": "ERNEUT SPIELEN",
+      "TRY": "ERNEUT PROBIEREN"
+    },
+    "button_tryAgain": "ERNEUT PROBIEREN",
+    "button_ok": "OK",
+    "button_exit": "BEENDEN",
+    "error_button_exit": "BEENDEN",
+    "error_title": "FEHLER",
+    "message_nonWin": "Mehr Glück\nbeim nächsten Mal",
+    "message_win": {
+      "BUY": "Glückwunsch",
+      "TRY": "Danke fürs Spielen"
+    },
+    "message_win1": {
+      "BUY": "Sie haben gewonnen",
+      "TRY": "Sie hätten gewinnen können"
+    },
+    "message_score_low": "SAFTIG",
+    "message_score_medium": "KÖSTLICH!",
+    "message_score_high": "SCHLÜRF-TASTISCH!!",
+    "message_out_of_swaps": "KEINE ZÜGE ÜBRIG!",
+    "game1Tagline": "Stimmen Sie 3 gleiche Preise überein, um zu gewinnen!",
+    "howToPlay": "",
+    "tutorialTitle0": "SPIELANLEITUNG:",
+    "tutorialTitle1": "Basisspiel",
+    "tutorialTitle2": "Power-Züge",
+    "tutorialTitle3": "Power-Züge",
+    "tutorialTitle4": "Power-Züge",
+    "tutorialTitle5": "Power-Züge",
+    "tutorialTitle6": "Saftbestellungen",
+    "tutorialTitle7": "Power-ups",
+    "tutorialTitle8": "Power-ups",
+    "tutorialTitle9": "Bonusspiel",
+    "tutorialTitle10": "Bonusspiel",
+    "page1_0": "Sie beginnen mit 25 Zügen",
+    "page1_1": "Streichen Sie über die Fruchtstücke, um sie zu tauschen.",
+    "page1_2": "Stimmen Sie 3-5 Früchte derselben Art in einer Reihe oder Spalte überein, um diese zu entfernen.",
+    "page1_3": "oder",
+    "page2_0": "Stimmen Sie 4 Früchte überein, um eine Frucht zu erhalten, welche eine ganze Linie entfernt. Bei Übereinstimmung entfernt diese Frucht eine gesamte Reihe oder Spalte.",
+    "page3_0": "Tauschen Sie 2 linienentfernende Früchte, um eine überkreuzende Linie zu entfernen.",
+    "page4_0": "Kombinieren Sie 5 Früchte, um eine Kirschbombe zu erhalten.",
+    "page5_0": "Die Kirschbombe explodiert, wenn sie bewegt wird und entfernt die Früchte um sie herum.",
+    "page6_0": "Stellen Sie Saftbestellungen fertig, indem Sie einzelne Fruchtarten sammeln. Für jede abgeschlossene Saftbestellung erhalten Sie ein Bonusspielglas.",
+    "page6_1": "Bei der Vergabe von Saftgläsern werden die Saftbestellungen aktualisiert, bis das Maximum erreicht wurde.",
+    "page6_2": "oder",
+    "page6_3": "oder",
+    "page7_0": "Stimmen Sie ein leeres Glas mit mindestens 2 gleichen Fruchtarten überein, um im Bonusspiel ein zusätzliches Glas wählen zu können.",
+    "page8_0": "Stimmen Sie einen Krug mit 2 oder mehr gleichen Fruchtarten überein, um alle übereinstimmenden Früchte vom Spielplan zu entfernen und einen zusätzlichen Zug zu erhalten.",
+    "page9_0": "Wählen Sie Gläser aus und decken Sie 3 identische Preise auf, um den angezeigten Betrag zu gewinnen.",
+    "page10_0": "Finden Sie den lila Sofortgewinn und Sie erhalten diesen Betrag.",
+    "page10_1": "Die Anzahl der im Bonusspiel angezeigten Gläser richtet sich nach der Anzahl der im Basisspiel gewonnenen Gläser.",
+    "winUpToLabel": "GEWINNEN SIE BIS ZU",
+    "winUpToValue": "{0}"
+  }
+}

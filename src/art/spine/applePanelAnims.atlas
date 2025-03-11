@@ -1,0 +1,41 @@
+
+applePanelAnims.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 6
+  size: 118, 101
+  orig: 118, 101
+  offset: 0, 0
+  index: -1
+appleMouth1
+  rotate: false
+  xy: 122, 28
+  size: 83, 43
+  orig: 83, 43
+  offset: 0, 0
+  index: -1
+appleMouth2
+  rotate: true
+  xy: 122, 2
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+appleMouth3
+  rotate: false
+  xy: 122, 73
+  size: 126, 34
+  orig: 126, 34
+  offset: 0, 0
+  index: -1
+appleStork1
+  rotate: false
+  xy: 207, 30
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1

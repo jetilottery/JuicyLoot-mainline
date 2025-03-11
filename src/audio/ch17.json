@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "ch17.webm",
+    "ch17.mp3",
+    "ch17.ogg"
+  ],
+  "sprite": {
+    "PointsAdded_2": [
+      0,
+      999.047619047619
+    ]
+  }
+}

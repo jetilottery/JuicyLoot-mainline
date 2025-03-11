@@ -1,0 +1,690 @@
+
+<font>
+<info face="luckiestGuy" size="60" />
+<common lineHeight="60" scaleW="512" scaleH="1024" pages="1" />
+<pages>
+	<page id="0" file="luckiestGuy.png" />
+</pages>
+<chars count="337">
+	<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20"/> <!-- <space> -->
+	<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="NaN"/> <!-- <tab> -->
+
+	<char id="42" x="362" y="574" width="22" height="23" xoffset="0" yoffset="17.5" xadvance="22"/><!-- * (2a) -->
+
+	<char id="43" x="251" y="530" width="19" height="19" xoffset="0" yoffset="19.5" xadvance="19"/><!-- + (2b) -->
+
+	<char id="44" x="208" y="70" width="11" height="16" xoffset="0" yoffset="21" xadvance="11"/><!-- , (2c) -->
+
+	<char id="45" x="191" y="75" width="17" height="10" xoffset="0" yoffset="24" xadvance="17"/><!-- - (2d) -->
+
+	<char id="46" x="356" y="137" width="11" height="12" xoffset="0" yoffset="23" xadvance="11"/><!-- . (2e) -->
+
+	<char id="47" x="81" y="462" width="21" height="35" xoffset="0" yoffset="11.5" xadvance="21"/><!-- / (2f) -->
+
+	<char id="58" x="358" y="36" width="11" height="23" xoffset="0" yoffset="17.5" xadvance="11"/><!-- : (3a) -->
+
+	<char id="59" x="208" y="42" width="11" height="28" xoffset="0" yoffset="15" xadvance="11"/><!-- ; (3b) -->
+
+	<char id="60" x="214" y="512" width="19" height="27" xoffset="0" yoffset="15.5" xadvance="19"/><!-- &lt; (3c) -->
+
+	<char id="61" x="495" y="479" width="17" height="17" xoffset="0" yoffset="20.5" xadvance="17"/><!-- = (3d) -->
+
+	<char id="62" x="193" y="522" width="19" height="27" xoffset="0" yoffset="15.5" xadvance="19"/><!-- &gt; (3e) -->
+
+	<char id="63" x="233" y="445" width="23" height="34" xoffset="0" yoffset="12" xadvance="23"/><!-- ? (3f) -->
+
+	<char id="74" x="228" y="479" width="23" height="33" xoffset="0" yoffset="12.5" xadvance="23"/><!-- J (4a) -->
+
+	<char id="75" x="325" y="189" width="28" height="34" xoffset="0" yoffset="12" xadvance="28"/><!-- K (4b) -->
+
+	<char id="76" x="0" y="588" width="20" height="31" xoffset="0" yoffset="13.5" xadvance="20"/><!-- L (4c) -->
+
+	<char id="77" x="40" y="91" width="34" height="33" xoffset="0" yoffset="12.5" xadvance="34"/><!-- M (4d) -->
+
+	<char id="78" x="327" y="80" width="30" height="34" xoffset="0" yoffset="12" xadvance="30"/><!-- N (4e) -->
+
+	<char id="79" x="325" y="287" width="28" height="29" xoffset="0" yoffset="14.5" xadvance="28"/><!-- O (4f) -->
+
+	<char id="90" x="152" y="445" width="21" height="32" xoffset="0" yoffset="13" xadvance="21"/><!-- Z (5a) -->
+
+	<char id="91" x="233" y="512" width="18" height="38" xoffset="0" yoffset="10" xadvance="18"/><!-- [ (5b) -->
+
+	<char id="92" x="54" y="480" width="21" height="35" xoffset="0" yoffset="11.5" xadvance="21"/><!-- \ (5c) -->
+
+	<char id="93" x="250" y="567" width="18" height="38" xoffset="0" yoffset="10" xadvance="18"/><!-- ] (5d) -->
+
+	<char id="94" x="455" y="547" width="22" height="18" xoffset="0" yoffset="20" xadvance="22"/><!-- ^ (5e) -->
+
+	<char id="95" x="495" y="496" width="17" height="10" xoffset="0" yoffset="24" xadvance="17"/><!-- _ (5f) -->
+
+	<char id="106" x="343" y="448" width="23" height="33" xoffset="0" yoffset="12.5" xadvance="23"/><!-- j (6a) -->
+
+	<char id="107" x="158" y="380" width="27" height="32" xoffset="0" yoffset="13" xadvance="27"/><!-- k (6b) -->
+
+	<char id="108" x="20" y="565" width="20" height="32" xoffset="0" yoffset="13" xadvance="20"/><!-- l (6c) -->
+
+	<char id="109" x="219" y="0" width="40" height="32" xoffset="0" yoffset="13" xadvance="40"/><!-- m (6d) -->
+
+	<char id="110" x="325" y="223" width="28" height="32" xoffset="0" yoffset="13" xadvance="28"/><!-- n (6e) -->
+
+	<char id="111" x="395" y="233" width="28" height="29" xoffset="0" yoffset="14.5" xadvance="28"/><!-- o (6f) -->
+
+	<char id="122" x="129" y="483" width="21" height="31" xoffset="0" yoffset="13.5" xadvance="21"/><!-- z (7a) -->
+
+	<char id="123" x="68" y="516" width="20" height="39" xoffset="0" yoffset="9.5" xadvance="20"/><!-- { (7b) -->
+
+	<char id="124" x="96" y="138" width="12" height="38" xoffset="0" yoffset="10" xadvance="12"/><!-- | (7c) -->
+
+	<char id="125" x="41" y="532" width="20" height="39" xoffset="0" yoffset="9.5" xadvance="20"/><!-- } (7d) -->
+
+	<char id="126" x="419" y="460" width="25" height="17" xoffset="0" yoffset="20.5" xadvance="25"/><!-- ~ (7e) -->
+
+	<char id="33" x="118" y="73" width="13" height="35" xoffset="0" yoffset="11.5" xadvance="13"/><!-- ! (21) -->
+
+	<char id="34" x="431" y="558" width="22" height="17" xoffset="0" yoffset="20.5" xadvance="22"/><!-- " (22) -->
+
+	<char id="35" x="445" y="458" width="26" height="25" xoffset="0" yoffset="16.5" xadvance="26"/><!-- # (23) -->
+
+	<char id="36" x="445" y="355" width="26" height="38" xoffset="0" yoffset="10" xadvance="26"/><!-- $ (24) -->
+
+	<char id="37" x="297" y="33" width="31" height="27" xoffset="0" yoffset="15.5" xadvance="31"/><!-- % (25) -->
+
+	<char id="38" x="219" y="193" width="29" height="30" xoffset="0" yoffset="14" xadvance="29"/><!-- &amp; (26) -->
+
+	<char id="39" x="307" y="437" width="13" height="16" xoffset="0" yoffset="21" xadvance="13"/><!-- &#39; (27) -->
+
+	<char id="40" x="40" y="571" width="19" height="38" xoffset="0" yoffset="10" xadvance="19"/><!-- ( (28) -->
+
+	<char id="41" x="20" y="597" width="19" height="38" xoffset="0" yoffset="10" xadvance="19"/><!-- ) (29) -->
+
+	<char id="48" x="368" y="199" width="28" height="32" xoffset="0" yoffset="13" xadvance="28"/><!-- 0 (30) -->
+
+	<char id="49" x="0" y="619" width="19" height="32" xoffset="0" yoffset="13" xadvance="19"/><!-- 1 (31) -->
+
+	<char id="50" x="387" y="533" width="22" height="33" xoffset="0" yoffset="12.5" xadvance="22"/><!-- 2 (32) -->
+
+	<char id="51" x="260" y="438" width="23" height="34" xoffset="0" yoffset="12" xadvance="23"/><!-- 3 (33) -->
+
+	<char id="52" x="185" y="401" width="24" height="33" xoffset="0" yoffset="12.5" xadvance="24"/><!-- 4 (34) -->
+
+	<char id="53" x="205" y="456" width="23" height="33" xoffset="0" yoffset="12.5" xadvance="23"/><!-- 5 (35) -->
+
+	<char id="54" x="83" y="383" width="25" height="34" xoffset="0" yoffset="12" xadvance="25"/><!-- 6 (36) -->
+
+	<char id="55" x="409" y="554" width="22" height="32" xoffset="0" yoffset="13" xadvance="22"/><!-- 7 (37) -->
+
+	<char id="56" x="158" y="412" width="24" height="33" xoffset="0" yoffset="12.5" xadvance="24"/><!-- 8 (38) -->
+
+	<char id="57" x="131" y="413" width="24" height="32" xoffset="0" yoffset="13" xadvance="24"/><!-- 9 (39) -->
+
+	<char id="64" x="423" y="237" width="28" height="26" xoffset="0" yoffset="16" xadvance="28"/><!-- @ (40) -->
+
+	<char id="65" x="297" y="104" width="30" height="32" xoffset="0" yoffset="13" xadvance="30"/><!-- A (41) -->
+
+	<char id="66" x="393" y="391" width="26" height="33" xoffset="0" yoffset="12.5" xadvance="26"/><!-- B (42) -->
+
+	<char id="67" x="320" y="475" width="23" height="32" xoffset="0" yoffset="13" xadvance="23"/><!-- C (43) -->
+
+	<char id="68" x="471" y="401" width="26" height="32" xoffset="0" yoffset="13" xadvance="26"/><!-- D (44) -->
+
+	<char id="69" x="26" y="491" width="21" height="32" xoffset="0" yoffset="13" xadvance="21"/><!-- E (45) -->
+
+	<char id="70" x="0" y="515" width="21" height="32" xoffset="0" yoffset="13" xadvance="21"/><!-- F (46) -->
+
+	<char id="71" x="480" y="247" width="28" height="34" xoffset="0" yoffset="12" xadvance="28"/><!-- G (47) -->
+
+	<char id="72" x="27" y="426" width="27" height="33" xoffset="0" yoffset="12.5" xadvance="27"/><!-- H (48) -->
+
+	<char id="73" x="353" y="296" width="14" height="30" xoffset="0" yoffset="14" xadvance="14"/><!-- I (49) -->
+
+	<char id="80" x="367" y="392" width="26" height="33" xoffset="0" yoffset="12.5" xadvance="26"/><!-- P (50) -->
+
+	<char id="81" x="0" y="153" width="31" height="36" xoffset="0" yoffset="11" xadvance="31"/><!-- Q (51) -->
+
+	<char id="82" x="445" y="426" width="26" height="32" xoffset="0" yoffset="13" xadvance="26"/><!-- R (52) -->
+
+	<char id="83" x="320" y="442" width="23" height="33" xoffset="0" yoffset="12.5" xadvance="23"/><!-- S (53) -->
+
+	<char id="84" x="236" y="383" width="24" height="31" xoffset="0" yoffset="13.5" xadvance="24"/><!-- T (54) -->
+
+	<char id="85" x="213" y="351" width="27" height="32" xoffset="0" yoffset="13" xadvance="27"/><!-- U (55) -->
+
+	<char id="86" x="399" y="80" width="29" height="32" xoffset="0" yoffset="13" xadvance="29"/><!-- V (56) -->
+
+	<char id="87" x="131" y="33" width="41" height="32" xoffset="0" yoffset="13" xadvance="41"/><!-- W (57) -->
+
+	<char id="88" x="369" y="84" width="29" height="32" xoffset="0" yoffset="13" xadvance="29"/><!-- X (58) -->
+
+	<char id="89" x="327" y="114" width="29" height="32" xoffset="0" yoffset="13" xadvance="29"/><!-- Y (59) -->
+
+	<char id="96" x="353" y="189" width="15" height="14" xoffset="0" yoffset="22" xadvance="15"/><!-- ` (60) -->
+
+	<char id="97" x="249" y="107" width="30" height="32" xoffset="0" yoffset="13" xadvance="30"/><!-- a (61) -->
+
+	<char id="98" x="393" y="424" width="26" height="33" xoffset="0" yoffset="12.5" xadvance="26"/><!-- b (62) -->
+
+	<char id="99" x="387" y="566" width="22" height="32" xoffset="0" yoffset="13" xadvance="22"/><!-- c (63) -->
+
+	<char id="100" x="471" y="433" width="26" height="30" xoffset="0" yoffset="14" xadvance="26"/><!-- d (64) -->
+
+	<char id="101" x="367" y="425" width="26" height="33" xoffset="0" yoffset="12.5" xadvance="26"/><!-- e (65) -->
+
+	<char id="102" x="152" y="477" width="21" height="31" xoffset="0" yoffset="13.5" xadvance="21"/><!-- f (66) -->
+
+	<char id="103" x="297" y="211" width="28" height="33" xoffset="0" yoffset="12.5" xadvance="28"/><!-- g (67) -->
+
+	<char id="104" x="185" y="369" width="27" height="32" xoffset="0" yoffset="13" xadvance="27"/><!-- h (68) -->
+
+	<char id="105" x="497" y="368" width="14" height="30" xoffset="0" yoffset="14" xadvance="14"/><!-- i (69) -->
+
+	<char id="112" x="419" y="428" width="26" height="32" xoffset="0" yoffset="13" xadvance="26"/><!-- p (70) -->
+
+	<char id="113" x="338" y="0" width="31" height="36" xoffset="0" yoffset="11" xadvance="31"/><!-- q (71) -->
+
+	<char id="114" x="393" y="457" width="26" height="32" xoffset="0" yoffset="13" xadvance="26"/><!-- r (72) -->
+
+	<char id="115" x="366" y="458" width="23" height="32" xoffset="0" yoffset="13" xadvance="23"/><!-- s (73) -->
+
+	<char id="116" x="260" y="407" width="24" height="31" xoffset="0" yoffset="13.5" xadvance="24"/><!-- t (74) -->
+
+	<char id="117" x="131" y="381" width="27" height="32" xoffset="0" yoffset="13" xadvance="27"/><!-- u (75) -->
+
+	<char id="118" x="297" y="136" width="29" height="32" xoffset="0" yoffset="13" xadvance="29"/><!-- v (76) -->
+
+	<char id="119" x="42" y="60" width="41" height="31" xoffset="0" yoffset="13.5" xadvance="41"/><!-- w (77) -->
+
+	<char id="120" x="248" y="179" width="29" height="32" xoffset="0" yoffset="13" xadvance="29"/><!-- x (78) -->
+
+	<char id="121" x="189" y="215" width="29" height="30" xoffset="0" yoffset="14" xadvance="29"/><!-- y (79) -->
+
+	<char id="161" x="497" y="444" width="13" height="35" xoffset="0" yoffset="11.5" xadvance="13"/><!-- ¡ (c2a1) -->
+
+	<char id="162" x="340" y="555" width="22" height="34" xoffset="0" yoffset="12" xadvance="22"/><!-- ¢ (c2a2) -->
+
+	<char id="163" x="160" y="202" width="29" height="33" xoffset="0" yoffset="12.5" xadvance="29"/><!-- £ (c2a3) -->
+
+	<char id="164" x="251" y="549" width="19" height="18" xoffset="0" yoffset="20" xadvance="19"/><!-- ¤ (c2a4) -->
+
+	<char id="165" x="299" y="0" width="39" height="33" xoffset="0" yoffset="12.5" xadvance="39"/><!-- ¥ (c2a5) -->
+
+	<char id="166" x="96" y="176" width="12" height="38" xoffset="0" yoffset="10" xadvance="12"/><!-- ¦ (c2a6) -->
+
+	<char id="167" x="284" y="437" width="23" height="39" xoffset="0" yoffset="9.5" xadvance="23"/><!-- § (c2a7) -->
+
+	<char id="168" x="289" y="564" width="18" height="10" xoffset="0" yoffset="24" xadvance="18"/><!-- ¨ (c2a8) -->
+
+	<char id="169" x="320" y="507" width="23" height="24" xoffset="0" yoffset="17" xadvance="23"/><!-- © (c2a9) -->
+
+	<char id="170" x="75" y="497" width="21" height="19" xoffset="0" yoffset="19.5" xadvance="21"/><!-- ª (c2aa) -->
+
+	<char id="171" x="160" y="235" width="29" height="22" xoffset="0" yoffset="18" xadvance="29"/><!-- « (c2ab) -->
+
+	<char id="172" x="47" y="515" width="21" height="17" xoffset="0" yoffset="20.5" xadvance="21"/><!-- ¬ (c2ac) -->
+
+	<char id="173" x="270" y="561" width="19" height="10" xoffset="0" yoffset="24" xadvance="19"/><!-- ­ (c2ad) -->
+
+	<char id="174" x="251" y="506" width="23" height="24" xoffset="0" yoffset="17" xadvance="23"/><!-- ® (c2ae) -->
+
+	<char id="175" x="495" y="592" width="17" height="8" xoffset="0" yoffset="25" xadvance="17"/><!-- ¯ (c2af) -->
+
+	<char id="176" x="268" y="571" width="16" height="15" xoffset="0" yoffset="21.5" xadvance="16"/><!-- ° (c2b0) -->
+
+	<char id="177" x="80" y="562" width="19" height="28" xoffset="0" yoffset="15" xadvance="19"/><!-- ± (c2b1) -->
+
+	<char id="178" x="307" y="453" width="13" height="15" xoffset="0" yoffset="21.5" xadvance="13"/><!-- ² (c2b2) -->
+
+	<char id="179" x="497" y="428" width="14" height="16" xoffset="0" yoffset="21" xadvance="14"/><!-- ³ (c2b3) -->
+
+	<char id="180" x="353" y="203" width="15" height="13" xoffset="0" yoffset="22.5" xadvance="15"/><!-- ´ (c2b4) -->
+
+	<char id="181" x="34" y="136" width="32" height="39" xoffset="0" yoffset="9.5" xadvance="32"/><!-- µ (c2b5) -->
+
+	<char id="182" x="83" y="73" width="35" height="32" xoffset="0" yoffset="13" xadvance="35"/><!-- ¶ (c2b6) -->
+
+	<char id="183" x="501" y="281" width="11" height="12" xoffset="0" yoffset="23" xadvance="11"/><!-- · (c2b7) -->
+
+	<char id="184" x="357" y="91" width="12" height="15" xoffset="0" yoffset="21.5" xadvance="12"/><!-- ¸ (c2b8) -->
+
+	<char id="185" x="356" y="122" width="11" height="15" xoffset="0" yoffset="21.5" xadvance="11"/><!-- ¹ (c2b9) -->
+
+	<char id="186" x="194" y="489" width="20" height="17" xoffset="0" yoffset="20.5" xadvance="20"/><!-- º (c2ba) -->
+
+	<char id="187" x="131" y="236" width="29" height="22" xoffset="0" yoffset="18" xadvance="29"/><!-- » (c2bb) -->
+
+	<char id="191" x="256" y="472" width="23" height="34" xoffset="0" yoffset="12" xadvance="23"/><!-- ¿ (c2bf) -->
+
+	<char id="224" x="66" y="138" width="30" height="43" xoffset="0" yoffset="7.5" xadvance="30"/><!-- à (c3a0) -->
+
+	<char id="225" x="219" y="64" width="30" height="44" xoffset="0" yoffset="7" xadvance="30"/><!-- á (c3a1) -->
+
+	<char id="226" x="399" y="0" width="30" height="41" xoffset="0" yoffset="8.5" xadvance="30"/><!-- â (c3a2) -->
+
+	<char id="227" x="0" y="189" width="30" height="42" xoffset="0" yoffset="8" xadvance="30"/><!-- ã (c3a3) -->
+
+	<char id="228" x="459" y="39" width="30" height="39" xoffset="0" yoffset="9.5" xadvance="30"/><!-- ä (c3a4) -->
+
+	<char id="229" x="429" y="0" width="30" height="41" xoffset="0" yoffset="8.5" xadvance="30"/><!-- å (c3a5) -->
+
+	<char id="230" x="136" y="0" width="42" height="33" xoffset="0" yoffset="12.5" xadvance="42"/><!-- æ (c3a6) -->
+
+	<char id="231" x="366" y="490" width="22" height="42" xoffset="0" yoffset="8" xadvance="22"/><!-- ç (c3a7) -->
+
+	<char id="232" x="271" y="320" width="26" height="45" xoffset="0" yoffset="6.5" xadvance="26"/><!-- è (c3a8) -->
+
+	<char id="233" x="82" y="417" width="26" height="45" xoffset="0" yoffset="6.5" xadvance="26"/><!-- é (c3a9) -->
+
+	<char id="234" x="448" y="312" width="26" height="43" xoffset="0" yoffset="7.5" xadvance="26"/><!-- ê (c3aa) -->
+
+	<char id="235" x="322" y="402" width="26" height="40" xoffset="0" yoffset="9" xadvance="26"/><!-- ë (c3ab) -->
+
+	<char id="236" x="493" y="680" width="19" height="43" xoffset="0" yoffset="7.5" xadvance="19"/><!-- ì (c3ac) -->
+
+	<char id="237" x="123" y="514" width="19" height="42" xoffset="0" yoffset="8" xadvance="19"/><!-- í (c3ad) -->
+
+	<char id="238" x="279" y="105" width="18" height="41" xoffset="0" yoffset="8.5" xadvance="18"/><!-- î (c3ae) -->
+
+	<char id="239" x="494" y="641" width="18" height="39" xoffset="0" yoffset="9.5" xadvance="18"/><!-- ï (c3af) -->
+
+	<char id="240" x="325" y="255" width="28" height="32" xoffset="0" yoffset="13" xadvance="28"/><!-- ð (c3b0) -->
+
+	<char id="241" x="326" y="146" width="28" height="43" xoffset="0" yoffset="7.5" xadvance="28"/><!-- ñ (c3b1) -->
+
+	<char id="242" x="456" y="116" width="28" height="41" xoffset="0" yoffset="8.5" xadvance="28"/><!-- ò (c3b2) -->
+
+	<char id="243" x="484" y="131" width="28" height="41" xoffset="0" yoffset="8.5" xadvance="28"/><!-- ó (c3b3) -->
+
+	<char id="244" x="368" y="160" width="28" height="39" xoffset="0" yoffset="9.5" xadvance="28"/><!-- ô (c3b4) -->
+
+	<char id="245" x="454" y="157" width="28" height="40" xoffset="0" yoffset="9" xadvance="28"/><!-- õ (c3b5) -->
+
+	<char id="246" x="396" y="196" width="28" height="37" xoffset="0" yoffset="10.5" xadvance="28"/><!-- ö (c3b6) -->
+
+	<char id="247" x="212" y="539" width="19" height="26" xoffset="0" yoffset="16" xadvance="19"/><!-- ÷ (c3b7) -->
+
+	<char id="248" x="452" y="233" width="28" height="35" xoffset="0" yoffset="11.5" xadvance="28"/><!-- ø (c3b8) -->
+
+	<char id="249" x="215" y="309" width="27" height="42" xoffset="0" yoffset="8" xadvance="27"/><!-- ù (c3b9) -->
+
+	<char id="250" x="217" y="266" width="27" height="43" xoffset="0" yoffset="7.5" xadvance="27"/><!-- ú (c3ba) -->
+
+	<char id="251" x="242" y="341" width="27" height="42" xoffset="0" yoffset="8" xadvance="27"/><!-- û (c3bb) -->
+
+	<char id="252" x="158" y="341" width="27" height="39" xoffset="0" yoffset="9.5" xadvance="27"/><!-- ü (c3bc) -->
+
+	<char id="253" x="0" y="272" width="29" height="41" xoffset="0" yoffset="8.5" xadvance="29"/><!-- ý (c3bd) -->
+
+	<char id="254" x="445" y="393" width="26" height="33" xoffset="0" yoffset="12.5" xadvance="26"/><!-- þ (c3be) -->
+
+	<char id="255" x="190" y="176" width="29" height="39" xoffset="0" yoffset="9.5" xadvance="29"/><!-- ÿ (c3bf) -->
+
+	<char id="288" x="218" y="223" width="28" height="43" xoffset="0" yoffset="7.5" xadvance="28"/><!-- Ġ (c4a0) -->
+
+	<char id="289" x="160" y="257" width="28" height="42" xoffset="0" yoffset="8" xadvance="28"/><!-- ġ (c4a1) -->
+
+	<char id="290" x="0" y="313" width="28" height="44" xoffset="0" yoffset="7" xadvance="28"/><!-- Ģ (c4a2) -->
+
+	<char id="291" x="428" y="80" width="28" height="44" xoffset="0" yoffset="7" xadvance="28"/><!-- ģ (c4a3) -->
+
+	<char id="292" x="269" y="365" width="27" height="42" xoffset="0" yoffset="8" xadvance="27"/><!-- Ĥ (c4a4) -->
+
+	<char id="293" x="56" y="368" width="27" height="41" xoffset="0" yoffset="8.5" xadvance="27"/><!-- ĥ (c4a5) -->
+
+	<char id="294" x="0" y="438" width="27" height="33" xoffset="0" yoffset="12.5" xadvance="27"/><!-- Ħ (c4a6) -->
+
+	<char id="295" x="54" y="448" width="27" height="32" xoffset="0" yoffset="13" xadvance="27"/><!-- ħ (c4a7) -->
+
+	<char id="296" x="88" y="520" width="19" height="42" xoffset="0" yoffset="8" xadvance="19"/><!-- Ĩ (c4a8) -->
+
+	<char id="297" x="61" y="555" width="19" height="42" xoffset="0" yoffset="8" xadvance="19"/><!-- ĩ (c4a9) -->
+
+	<char id="298" x="91" y="214" width="17" height="38" xoffset="0" yoffset="10" xadvance="17"/><!-- Ī (c4aa) -->
+
+	<char id="299" x="350" y="367" width="17" height="38" xoffset="0" yoffset="10" xadvance="17"/><!-- ī (c4ab) -->
+
+	<char id="300" x="351" y="326" width="16" height="41" xoffset="0" yoffset="8.5" xadvance="16"/><!-- Ĭ (c4ac) -->
+
+	<char id="301" x="495" y="600" width="16" height="41" xoffset="0" yoffset="8.5" xadvance="16"/><!-- ĭ (c4ad) -->
+
+	<char id="302" x="354" y="149" width="14" height="40" xoffset="0" yoffset="9" xadvance="14"/><!-- Į (c4ae) -->
+
+	<char id="303" x="353" y="216" width="14" height="40" xoffset="0" yoffset="9" xadvance="14"/><!-- į (c4af) -->
+
+	<char id="304" x="353" y="256" width="14" height="40" xoffset="0" yoffset="9" xadvance="14"/><!-- İ (c4b0) -->
+
+	<char id="305" x="497" y="398" width="14" height="30" xoffset="0" yoffset="14" xadvance="14"/><!-- ı (c4b1) -->
+
+	<char id="306" x="0" y="120" width="34" height="33" xoffset="0" yoffset="12.5" xadvance="34"/><!-- Ĳ (c4b2) -->
+
+	<char id="307" x="74" y="105" width="34" height="33" xoffset="0" yoffset="12.5" xadvance="34"/><!-- ĳ (c4b3) -->
+
+	<char id="308" x="273" y="277" width="24" height="43" xoffset="0" yoffset="7.5" xadvance="24"/><!-- Ĵ (c4b4) -->
+
+	<char id="309" x="419" y="477" width="24" height="43" xoffset="0" yoffset="7.5" xadvance="24"/><!-- ĵ (c4b5) -->
+
+	<char id="310" x="398" y="112" width="28" height="44" xoffset="0" yoffset="7" xadvance="28"/><!-- Ķ (c4b6) -->
+
+	<char id="311" x="246" y="254" width="27" height="44" xoffset="0" yoffset="7" xadvance="27"/><!-- ķ (c4b7) -->
+
+	<char id="312" x="27" y="459" width="27" height="32" xoffset="0" yoffset="13" xadvance="27"/><!-- ĸ (c4b8) -->
+
+	<char id="313" x="277" y="146" width="20" height="44" xoffset="0" yoffset="7" xadvance="20"/><!-- Ĺ (c4b9) -->
+
+	<char id="314" x="277" y="190" width="20" height="44" xoffset="0" yoffset="7" xadvance="20"/><!-- ĺ (c4ba) -->
+
+	<char id="315" x="0" y="547" width="20" height="41" xoffset="0" yoffset="8.5" xadvance="20"/><!-- Ļ (c4bb) -->
+
+	<char id="316" x="21" y="523" width="20" height="42" xoffset="0" yoffset="8" xadvance="20"/><!-- ļ (c4bc) -->
+
+	<char id="317" x="433" y="525" width="22" height="33" xoffset="0" yoffset="12.5" xadvance="22"/><!-- Ľ (c4bd) -->
+
+	<char id="318" x="411" y="520" width="22" height="34" xoffset="0" yoffset="12" xadvance="22"/><!-- ľ (c4be) -->
+
+	<char id="319" x="279" y="476" width="23" height="31" xoffset="0" yoffset="13.5" xadvance="23"/><!-- Ŀ (c4bf) -->
+
+	<char id="354" x="471" y="463" width="24" height="42" xoffset="0" yoffset="8" xadvance="24"/><!-- Ţ (c5a2) -->
+
+	<char id="355" x="443" y="483" width="24" height="42" xoffset="0" yoffset="8" xadvance="24"/><!-- ţ (c5a3) -->
+
+	<char id="356" x="467" y="505" width="24" height="42" xoffset="0" yoffset="8" xadvance="24"/><!-- Ť (c5a4) -->
+
+	<char id="357" x="212" y="383" width="24" height="42" xoffset="0" yoffset="8" xadvance="24"/><!-- ť (c5a5) -->
+
+	<char id="358" x="236" y="414" width="24" height="31" xoffset="0" yoffset="13.5" xadvance="24"/><!-- Ŧ (c5a6) -->
+
+	<char id="359" x="209" y="425" width="24" height="31" xoffset="0" yoffset="13.5" xadvance="24"/><!-- ŧ (c5a7) -->
+
+	<char id="360" x="244" y="298" width="27" height="43" xoffset="0" yoffset="7.5" xadvance="27"/><!-- Ũ (c5a8) -->
+
+	<char id="361" x="297" y="352" width="27" height="43" xoffset="0" yoffset="7.5" xadvance="27"/><!-- ũ (c5a9) -->
+
+	<char id="362" x="131" y="342" width="27" height="39" xoffset="0" yoffset="9.5" xadvance="27"/><!-- Ū (c5aa) -->
+
+	<char id="363" x="55" y="409" width="27" height="39" xoffset="0" yoffset="9.5" xadvance="27"/><!-- ū (c5ab) -->
+
+	<char id="364" x="159" y="299" width="27" height="42" xoffset="0" yoffset="8" xadvance="27"/><!-- Ŭ (c5ac) -->
+
+	<char id="365" x="131" y="300" width="27" height="42" xoffset="0" yoffset="8" xadvance="27"/><!-- ŭ (c5ad) -->
+
+	<char id="366" x="395" y="262" width="27" height="46" xoffset="0" yoffset="6" xadvance="27"/><!-- Ů (c5ae) -->
+
+	<char id="367" x="367" y="263" width="27" height="45" xoffset="0" yoffset="6.5" xadvance="27"/><!-- ů (c5af) -->
+
+	<char id="368" x="191" y="131" width="28" height="45" xoffset="0" yoffset="6.5" xadvance="28"/><!-- Ű (c5b0) -->
+
+	<char id="369" x="219" y="108" width="29" height="45" xoffset="0" yoffset="6.5" xadvance="29"/><!-- ű (c5b1) -->
+
+	<char id="370" x="0" y="398" width="27" height="40" xoffset="0" yoffset="9" xadvance="27"/><!-- Ų (c5b2) -->
+
+	<char id="371" x="186" y="329" width="27" height="40" xoffset="0" yoffset="9" xadvance="27"/><!-- ų (c5b3) -->
+
+	<char id="372" x="178" y="0" width="41" height="42" xoffset="0" yoffset="8" xadvance="41"/><!-- Ŵ (c5b4) -->
+
+	<char id="373" x="90" y="33" width="41" height="40" xoffset="0" yoffset="9" xadvance="41"/><!-- ŵ (c5b5) -->
+
+	<char id="374" x="30" y="259" width="29" height="42" xoffset="0" yoffset="8" xadvance="29"/><!-- Ŷ (c5b6) -->
+
+	<char id="375" x="219" y="153" width="29" height="40" xoffset="0" yoffset="9" xadvance="29"/><!-- ŷ (c5b7) -->
+
+	<char id="377" x="389" y="489" width="22" height="44" xoffset="0" yoffset="7" xadvance="22"/><!-- Ź (c5b9) -->
+
+	<char id="378" x="491" y="506" width="21" height="43" xoffset="0" yoffset="7.5" xadvance="21"/><!-- ź (c5ba) -->
+
+	<char id="379" x="452" y="607" width="21" height="41" xoffset="0" yoffset="8.5" xadvance="21"/><!-- Ż (c5bb) -->
+
+	<char id="380" x="430" y="617" width="21" height="41" xoffset="0" yoffset="8.5" xadvance="21"/><!-- ż (c5bc) -->
+
+	<char id="381" x="477" y="549" width="21" height="43" xoffset="0" yoffset="7.5" xadvance="21"/><!-- Ž (c5bd) -->
+
+	<char id="382" x="409" y="586" width="21" height="42" xoffset="0" yoffset="8" xadvance="21"/><!-- ž (c5be) -->
+
+	<char id="508" x="0" y="76" width="40" height="44" xoffset="0" yoffset="7" xadvance="40"/><!-- Ǽ (c7bc) -->
+
+	<char id="509" x="0" y="32" width="42" height="44" xoffset="0" yoffset="7" xadvance="42"/><!-- ǽ (c7bd) -->
+
+	<char id="138" x="108" y="153" width="23" height="44" xoffset="0" yoffset="7" xadvance="23"/><!--  (c28a) -->
+
+	<char id="139" x="107" y="520" width="16" height="22" xoffset="0" yoffset="18" xadvance="16"/><!--  (c28b) -->
+
+	<char id="140" x="219" y="32" width="39" height="32" xoffset="0" yoffset="13" xadvance="39"/><!--  (c28c) -->
+
+	<char id="154" x="489" y="88" width="23" height="43" xoffset="0" yoffset="7.5" xadvance="23"/><!--  (c29a) -->
+
+	<char id="155" x="107" y="542" width="16" height="22" xoffset="0" yoffset="18" xadvance="16"/><!--  (c29b) -->
+
+	<char id="156" x="92" y="0" width="44" height="33" xoffset="0" yoffset="12.5" xadvance="44"/><!--  (c29c) -->
+
+	<char id="159" x="248" y="139" width="29" height="40" xoffset="0" yoffset="9" xadvance="29"/><!--  (c29f) -->
+
+	<char id="202" x="453" y="565" width="21" height="42" xoffset="0" yoffset="8" xadvance="21"/><!-- Ê (c38a) -->
+
+	<char id="203" x="473" y="633" width="21" height="40" xoffset="0" yoffset="9" xadvance="21"/><!-- Ë (c38b) -->
+
+	<char id="204" x="89" y="252" width="19" height="44" xoffset="0" yoffset="7" xadvance="19"/><!-- Ì (c38c) -->
+
+	<char id="205" x="348" y="405" width="19" height="43" xoffset="0" yoffset="7.5" xadvance="19"/><!-- Í (c38d) -->
+
+	<char id="206" x="279" y="64" width="18" height="41" xoffset="0" yoffset="8.5" xadvance="18"/><!-- Î (c38e) -->
+
+	<char id="207" x="302" y="481" width="18" height="39" xoffset="0" yoffset="9.5" xadvance="18"/><!-- Ï (c38f) -->
+
+	<char id="218" x="324" y="316" width="27" height="43" xoffset="0" yoffset="7.5" xadvance="27"/><!-- Ú (c39a) -->
+
+	<char id="219" x="188" y="287" width="27" height="42" xoffset="0" yoffset="8" xadvance="27"/><!-- Û (c39b) -->
+
+	<char id="220" x="28" y="386" width="27" height="40" xoffset="0" yoffset="9" xadvance="27"/><!-- Ü (c39c) -->
+
+	<char id="221" x="161" y="159" width="29" height="43" xoffset="0" yoffset="7.5" xadvance="29"/><!-- Ý (c39d) -->
+
+	<char id="222" x="471" y="368" width="26" height="33" xoffset="0" yoffset="12.5" xadvance="26"/><!-- Þ (c39e) -->
+
+	<char id="223" x="0" y="0" width="46" height="32" xoffset="0" yoffset="13" xadvance="46"/><!-- ß (c39f) -->
+
+	<char id="266" x="182" y="434" width="23" height="41" xoffset="0" yoffset="8.5" xadvance="23"/><!-- Ċ (c48a) -->
+
+	<char id="267" x="318" y="531" width="22" height="41" xoffset="0" yoffset="8.5" xadvance="22"/><!-- ċ (c48b) -->
+
+	<char id="268" x="85" y="341" width="23" height="42" xoffset="0" yoffset="8" xadvance="23"/><!-- Č (c48c) -->
+
+	<char id="269" x="365" y="532" width="22" height="42" xoffset="0" yoffset="8" xadvance="22"/><!-- č (c48d) -->
+
+	<char id="270" x="296" y="395" width="26" height="42" xoffset="0" yoffset="8" xadvance="26"/><!-- Ď (c48e) -->
+
+	<char id="271" x="393" y="350" width="26" height="41" xoffset="0" yoffset="8.5" xadvance="26"/><!-- ď (c48f) -->
+
+	<char id="282" x="276" y="234" width="21" height="43" xoffset="0" yoffset="7.5" xadvance="21"/><!-- Ě (c49a) -->
+
+	<char id="283" x="474" y="325" width="26" height="43" xoffset="0" yoffset="7.5" xadvance="26"/><!-- ě (c49b) -->
+
+	<char id="284" x="59" y="282" width="28" height="44" xoffset="0" yoffset="7" xadvance="28"/><!-- Ĝ (c49c) -->
+
+	<char id="285" x="297" y="168" width="28" height="43" xoffset="0" yoffset="7.5" xadvance="28"/><!-- ĝ (c49d) -->
+
+	<char id="286" x="29" y="301" width="28" height="44" xoffset="0" yoffset="7" xadvance="28"/><!-- Ğ (c49e) -->
+
+	<char id="287" x="248" y="211" width="28" height="43" xoffset="0" yoffset="7.5" xadvance="28"/><!-- ğ (c49f) -->
+
+	<char id="330" x="369" y="0" width="30" height="45" xoffset="0" yoffset="6.5" xadvance="30"/><!-- Ŋ (c58a) -->
+
+	<char id="331" x="191" y="86" width="28" height="45" xoffset="0" yoffset="6.5" xadvance="28"/><!-- ŋ (c58b) -->
+
+	<char id="332" x="452" y="197" width="28" height="36" xoffset="0" yoffset="11" xadvance="28"/><!-- Ō (c58c) -->
+
+	<char id="333" x="424" y="201" width="28" height="36" xoffset="0" yoffset="11" xadvance="28"/><!-- ō (c58d) -->
+
+	<char id="334" x="482" y="172" width="28" height="40" xoffset="0" yoffset="9" xadvance="28"/><!-- Ŏ (c58e) -->
+
+	<char id="335" x="396" y="156" width="28" height="40" xoffset="0" yoffset="9" xadvance="28"/><!-- ŏ (c58f) -->
+
+	<char id="346" x="108" y="108" width="23" height="45" xoffset="0" yoffset="6.5" xadvance="23"/><!-- Ś (c59a) -->
+
+	<char id="347" x="489" y="44" width="23" height="44" xoffset="0" yoffset="7" xadvance="23"/><!-- ś (c59b) -->
+
+	<char id="348" x="108" y="197" width="23" height="43" xoffset="0" yoffset="7.5" xadvance="23"/><!-- Ŝ (c59c) -->
+
+	<char id="349" x="108" y="367" width="23" height="42" xoffset="0" yoffset="8" xadvance="23"/><!-- ŝ (c59d) -->
+
+	<char id="350" x="108" y="240" width="23" height="43" xoffset="0" yoffset="7.5" xadvance="23"/><!-- Ş (c59e) -->
+
+	<char id="351" x="108" y="409" width="23" height="42" xoffset="0" yoffset="8" xadvance="23"/><!-- ş (c59f) -->
+
+	<char id="128" x="131" y="202" width="29" height="34" xoffset="0" yoffset="12" xadvance="29"/><!--  (c280) -->
+
+	<char id="130" x="358" y="59" width="11" height="16" xoffset="0" yoffset="21" xadvance="11"/><!--  (c282) -->
+
+	<char id="131" x="419" y="390" width="26" height="38" xoffset="0" yoffset="10" xadvance="26"/><!--  (c283) -->
+
+	<char id="132" x="194" y="506" width="20" height="16" xoffset="0" yoffset="21" xadvance="20"/><!--  (c284) -->
+
+	<char id="133" x="34" y="124" width="34" height="12" xoffset="0" yoffset="23" xadvance="34"/><!--  (c285) -->
+
+	<char id="134" x="131" y="445" width="21" height="38" xoffset="0" yoffset="10" xadvance="21"/><!--  (c286) -->
+
+	<char id="135" x="108" y="451" width="21" height="38" xoffset="0" yoffset="10" xadvance="21"/><!--  (c287) -->
+
+	<char id="136" x="142" y="524" width="18" height="12" xoffset="0" yoffset="23" xadvance="18"/><!--  (c288) -->
+
+	<char id="137" x="46" y="0" width="46" height="27" xoffset="0" yoffset="15.5" xadvance="46"/><!--  (c289) -->
+
+	<char id="145" x="358" y="75" width="11" height="16" xoffset="0" yoffset="21" xadvance="11"/><!--  (c291) -->
+
+	<char id="146" x="357" y="106" width="11" height="16" xoffset="0" yoffset="21" xadvance="11"/><!--  (c292) -->
+
+	<char id="147" x="173" y="507" width="20" height="16" xoffset="0" yoffset="21" xadvance="20"/><!--  (c293) -->
+
+	<char id="148" x="150" y="508" width="20" height="16" xoffset="0" yoffset="21" xadvance="20"/><!--  (c294) -->
+
+	<char id="149" x="307" y="468" width="13" height="13" xoffset="0" yoffset="22.5" xadvance="13"/><!--  (c295) -->
+
+	<char id="150" x="270" y="551" width="19" height="10" xoffset="0" yoffset="24" xadvance="19"/><!--  (c296) -->
+
+	<char id="151" x="131" y="65" width="36" height="10" xoffset="0" yoffset="24" xadvance="36"/><!--  (c297) -->
+
+	<char id="152" x="170" y="523" width="19" height="13" xoffset="0" yoffset="22.5" xadvance="19"/><!--  (c298) -->
+
+	<char id="153" x="59" y="265" width="29" height="17" xoffset="0" yoffset="20.5" xadvance="29"/><!--  (c299) -->
+
+	<char id="192" x="328" y="36" width="30" height="44" xoffset="0" yoffset="7" xadvance="30"/><!-- À (c380) -->
+
+	<char id="193" x="297" y="60" width="30" height="44" xoffset="0" yoffset="7" xadvance="30"/><!-- Á (c381) -->
+
+	<char id="194" x="30" y="218" width="30" height="41" xoffset="0" yoffset="8.5" xadvance="30"/><!-- Â (c382) -->
+
+	<char id="195" x="249" y="64" width="30" height="43" xoffset="0" yoffset="7.5" xadvance="30"/><!-- Ã (c383) -->
+
+	<char id="196" x="459" y="0" width="30" height="39" xoffset="0" yoffset="9.5" xadvance="30"/><!-- Ä (c384) -->
+
+	<char id="197" x="0" y="231" width="30" height="41" xoffset="0" yoffset="8.5" xadvance="30"/><!-- Å (c385) -->
+
+	<char id="198" x="259" y="0" width="40" height="32" xoffset="0" yoffset="13" xadvance="40"/><!-- Æ (c386) -->
+
+	<char id="199" x="108" y="283" width="23" height="42" xoffset="0" yoffset="8" xadvance="23"/><!-- Ç (c387) -->
+
+	<char id="200" x="87" y="296" width="21" height="45" xoffset="0" yoffset="6.5" xadvance="21"/><!-- È (c388) -->
+
+	<char id="201" x="274" y="507" width="22" height="44" xoffset="0" yoffset="7" xadvance="22"/><!-- É (c389) -->
+
+	<char id="208" x="297" y="244" width="28" height="32" xoffset="0" yoffset="13" xadvance="28"/><!-- Ð (c390) -->
+
+	<char id="209" x="131" y="75" width="30" height="43" xoffset="0" yoffset="7.5" xadvance="30"/><!-- Ñ (c391) -->
+
+	<char id="210" x="189" y="245" width="28" height="42" xoffset="0" yoffset="8" xadvance="28"/><!-- Ò (c392) -->
+
+	<char id="211" x="28" y="345" width="28" height="41" xoffset="0" yoffset="8.5" xadvance="28"/><!-- Ó (c393) -->
+
+	<char id="212" x="426" y="124" width="28" height="40" xoffset="0" yoffset="9" xadvance="28"/><!-- Ô (c394) -->
+
+	<char id="213" x="0" y="357" width="28" height="41" xoffset="0" yoffset="8.5" xadvance="28"/><!-- Õ (c395) -->
+
+	<char id="214" x="424" y="164" width="28" height="37" xoffset="0" yoffset="10.5" xadvance="28"/><!-- Ö (c396) -->
+
+	<char id="215" x="231" y="550" width="19" height="18" xoffset="0" yoffset="20" xadvance="19"/><!-- × (c397) -->
+
+	<char id="216" x="480" y="212" width="28" height="35" xoffset="0" yoffset="11.5" xadvance="28"/><!-- Ø (c398) -->
+
+	<char id="217" x="422" y="263" width="27" height="44" xoffset="0" yoffset="7" xadvance="27"/><!-- Ù (c399) -->
+
+	<char id="256" x="399" y="41" width="30" height="39" xoffset="0" yoffset="9.5" xadvance="30"/><!-- Ā (c480) -->
+
+	<char id="257" x="459" y="78" width="30" height="38" xoffset="0" yoffset="10" xadvance="30"/><!-- ā (c481) -->
+
+	<char id="258" x="161" y="75" width="30" height="42" xoffset="0" yoffset="8" xadvance="30"/><!-- Ă (c482) -->
+
+	<char id="259" x="161" y="117" width="30" height="42" xoffset="0" yoffset="8" xadvance="30"/><!-- ă (c483) -->
+
+	<char id="260" x="369" y="45" width="30" height="39" xoffset="0" yoffset="9.5" xadvance="30"/><!-- Ą (c484) -->
+
+	<char id="261" x="429" y="41" width="30" height="39" xoffset="0" yoffset="9.5" xadvance="30"/><!-- ą (c485) -->
+
+	<char id="262" x="489" y="0" width="23" height="44" xoffset="0" yoffset="7" xadvance="23"/><!-- Ć (c486) -->
+
+	<char id="263" x="296" y="520" width="22" height="44" xoffset="0" yoffset="7" xadvance="22"/><!-- ć (c487) -->
+
+	<char id="264" x="108" y="325" width="23" height="42" xoffset="0" yoffset="8" xadvance="23"/><!-- Ĉ (c488) -->
+
+	<char id="265" x="343" y="513" width="22" height="42" xoffset="0" yoffset="8" xadvance="22"/><!-- ĉ (c489) -->
+
+	<char id="272" x="297" y="276" width="28" height="32" xoffset="0" yoffset="13" xadvance="28"/><!-- Đ (c490) -->
+
+	<char id="273" x="367" y="231" width="28" height="32" xoffset="0" yoffset="13" xadvance="28"/><!-- đ (c491) -->
+
+	<char id="274" x="472" y="673" width="21" height="39" xoffset="0" yoffset="9.5" xadvance="21"/><!-- Ē (c492) -->
+
+	<char id="275" x="419" y="351" width="26" height="39" xoffset="0" yoffset="9.5" xadvance="26"/><!-- ē (c493) -->
+
+	<char id="276" x="431" y="575" width="21" height="42" xoffset="0" yoffset="8" xadvance="21"/><!-- Ĕ (c494) -->
+
+	<char id="277" x="0" y="471" width="26" height="44" xoffset="0" yoffset="7" xadvance="26"/><!-- ĕ (c495) -->
+
+	<char id="278" x="474" y="592" width="21" height="41" xoffset="0" yoffset="8.5" xadvance="21"/><!-- Ė (c496) -->
+
+	<char id="279" x="393" y="308" width="26" height="42" xoffset="0" yoffset="8" xadvance="26"/><!-- ė (c497) -->
+
+	<char id="280" x="451" y="648" width="21" height="40" xoffset="0" yoffset="9" xadvance="21"/><!-- Ę (c498) -->
+
+	<char id="281" x="367" y="351" width="26" height="41" xoffset="0" yoffset="8.5" xadvance="26"/><!-- ę (c499) -->
+
+	<char id="320" x="343" y="481" width="23" height="32" xoffset="0" yoffset="13" xadvance="23"/><!-- ŀ (c580) -->
+
+	<char id="321" x="102" y="489" width="21" height="31" xoffset="0" yoffset="13.5" xadvance="21"/><!-- Ł (c581) -->
+
+	<char id="322" x="173" y="475" width="21" height="32" xoffset="0" yoffset="13" xadvance="21"/><!-- ł (c582) -->
+
+	<char id="323" x="131" y="118" width="30" height="42" xoffset="0" yoffset="8" xadvance="30"/><!-- Ń (c583) -->
+
+	<char id="324" x="368" y="116" width="28" height="44" xoffset="0" yoffset="7" xadvance="28"/><!-- ń (c584) -->
+
+	<char id="325" x="31" y="175" width="30" height="43" xoffset="0" yoffset="7.5" xadvance="30"/><!-- Ņ (c585) -->
+
+	<char id="326" x="131" y="258" width="28" height="42" xoffset="0" yoffset="8" xadvance="28"/><!-- ņ (c586) -->
+
+	<char id="327" x="61" y="181" width="30" height="42" xoffset="0" yoffset="8" xadvance="30"/><!-- Ň (c587) -->
+
+	<char id="328" x="57" y="326" width="28" height="42" xoffset="0" yoffset="8" xadvance="28"/><!-- ň (c588) -->
+
+	<char id="329" x="172" y="42" width="36" height="33" xoffset="0" yoffset="12.5" xadvance="36"/><!-- ŉ (c589) -->
+
+	<char id="336" x="131" y="160" width="29" height="42" xoffset="0" yoffset="8" xadvance="29"/><!-- Ő (c590) -->
+
+	<char id="337" x="60" y="223" width="29" height="42" xoffset="0" yoffset="8" xadvance="29"/><!-- ő (c591) -->
+
+	<char id="338" x="258" y="32" width="39" height="32" xoffset="0" yoffset="13" xadvance="39"/><!-- Œ (c592) -->
+
+	<char id="339" x="46" y="27" width="44" height="33" xoffset="0" yoffset="12.5" xadvance="44"/><!-- œ (c593) -->
+
+	<char id="340" x="449" y="268" width="26" height="44" xoffset="0" yoffset="7" xadvance="26"/><!-- Ŕ (c594) -->
+
+	<char id="341" x="297" y="308" width="27" height="44" xoffset="0" yoffset="7" xadvance="27"/><!-- ŕ (c595) -->
+
+	<char id="342" x="422" y="307" width="26" height="44" xoffset="0" yoffset="7" xadvance="26"/><!-- Ŗ (c596) -->
+
+	<char id="343" x="475" y="281" width="26" height="44" xoffset="0" yoffset="7" xadvance="26"/><!-- ŗ (c597) -->
+
+	<char id="344" x="367" y="308" width="26" height="43" xoffset="0" yoffset="7.5" xadvance="26"/><!-- Ř (c598) -->
+
+	<char id="345" x="324" y="359" width="26" height="43" xoffset="0" yoffset="7.5" xadvance="26"/><!-- ř (c599) -->
+
+</chars>
+<!-- kernings count="133">
+	<kerning first="65"  second="67"  amount="-4" />
+</kernings -->
+</font>

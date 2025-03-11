@@ -1,0 +1,41 @@
+
+lemon2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body0
+  rotate: false
+  xy: 2, 74
+  size: 220, 178
+  orig: 220, 178
+  offset: 0, 0
+  index: -1
+bodyEndLeft
+  rotate: true
+  xy: 2, 2
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+bodyEndRight
+  rotate: false
+  xy: 418, 172
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+mouth happy
+  rotate: false
+  xy: 224, 73
+  size: 197, 76
+  orig: 197, 76
+  offset: 0, 0
+  index: -1
+mouth happy2
+  rotate: false
+  xy: 224, 151
+  size: 192, 101
+  orig: 192, 101
+  offset: 0, 0
+  index: -1

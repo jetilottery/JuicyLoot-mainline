@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "ch13.webm",
+    "ch13.mp3",
+    "ch13.ogg"
+  ],
+  "sprite": {
+    "CherryObtained": [
+      0,
+      2953.4013605442174
+    ]
+  }
+}
